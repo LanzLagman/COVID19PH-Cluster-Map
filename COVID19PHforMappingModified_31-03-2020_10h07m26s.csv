@@ -1,0 +1,752 @@
+case_no,date,age,gender,nationality,hospital_admitted_to,had_recent_travel_history_abroad,status,other_information,resident_of,hospital,hosp_lat,hosp_long
+1,2020-01-30,38,F,Chinese,San Lazaro Hospital,Yes,Recovered,First case of COVID-19 in PH,,San Lazaro Hospital,14.614117,120.98058146200714
+2,2020-01-30,44,M,Chinese,San Lazaro Hospital,Yes,Died,First COVID-19-related death in PH; first outside mainland China,,San Lazaro Hospital,14.614117,120.98058146200714
+3,2020-01-30,60,F,Chinese,ACE Medical Center - Bohol,Yes,Recovered,Left the Philippines to China before was reported positive,,ACE Medical Center - Bohol,9.6344977,123.8692981
+4,2020-03-05,48,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,Yes,Recovered,First case involving a Filipino in the Philippines; employee of Deloitte PH in BGC,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+5,2020-03-05,62,M,Filipino,Research Institute for Tropical Medicine (Muntinlupa),No,Died,Resident of Cainta; frequented Greenhills Mall and a prayer room in San Juan,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+6,2020-03-06,59,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),No,Died,Resident of Cainta,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+7,2020-03-08,38,M,Taiwanese,Research Institute for Tropical Medicine (Muntinlupa),No,Recovered,Has contact with a Taiwanese national who tested positive in Taiwan after visit from PH,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+8,2020-03-08,32,M,Filipino,St. Luke's Medical Center - Global City,Yes,Admitted,-,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+9,2020-03-08,86,M,American,The Medical City - Ortigas,Yes,Died,dual citizen (Fil-Am) according to Mayor Marcy Teodoro,,The Medical City - Ortigas,14.589964,121.06906339610711
+10,2020-03-08,57,M,Filipino,San Lazaro Hospital,Yes,Recovered,"Case reported that a relative from China (with layover in HK and Taiwan) stayed in his residence for 1 week on January 26. During his hospital stay in SLMC-QC, relatives from China, US, and Davao visited him (At SLMC-QC March 1 to present)",,San Lazaro Hospital,14.614117,120.98058146200714
+11,2020-03-09,72,M,Filipino,The Medical City - Ortigas,No,Recovered,-,,The Medical City - Ortigas,14.589964,121.06906339610711
+12,2020-03-09,56,M,Filipino,Makati Medical Center,Yes,Died,-,,Makati Medical Center,14.5593106,121.01480235528001
+13,2020-03-09,34,M,Filipino,Makati Medical Center,Yes,Recovered,-,,Makati Medical Center,14.5593106,121.01480235528001
+14,2020-03-09,46,M,Filipino,Makati Medical Center,No,Recovered,-,,Makati Medical Center,14.5593106,121.01480235528001
+15,2020-03-09,24,M,Filipino,Makati Medical Center,Yes,Recovered,-,,Makati Medical Center,14.5593106,121.01480235528001
+16,2020-03-09,70,M,Filipino,Research Institute for Tropical Medicine (Muntinlupa),Yes,Recovered,"Went to a prayer area in Greenhills and Baclaran, plausible link with Case #5; currently asymptomatic",,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+17,2020-03-09,69,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),Yes,Recovered,"Went to a prayer area in Greenhills and Baclaran, plausible link with Case #5; currently asymptomatic",,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+18,2020-03-09,41,M,Filipino,San Lazaro Hospital,Yes,Recovered,currently asymptomatic,,San Lazaro Hospital,14.614117,120.98058146200714
+19,2020-03-09,46,F,Filipino,San Lazaro Hospital,No,Recovered,-,,San Lazaro Hospital,14.614117,120.98058146200714
+20,2020-03-09,48,M,Filipino,Research Institute for Tropical Medicine (Muntinlupa),Yes,Recovered,Resident of Imus,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+21,2020-03-09,58,F,Filipino,Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium,No,Admitted,San Jose del Monte,,Dr. Jose N. Rodriguez Memorial Hospital,14.76667625,121.06468840472849
+22,2020-03-09,51,F,Filipino,Quirino Memorial Medical Center,No,Recovered,currently asymptomatic,,Quirino Memorial Medical Center,14.6225632,121.07266242678826
+23,2020-03-09,30,F,Filipino,Cardinal Santos Medical Center,No,Recovered,currently asymptomatic,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+24,2020-03-09,52,M,Filipino,St. Luke's Medical Center - Quezon City,Yes,Admitted,-,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+25,2020-03-10,31,M,Filipino,Jose B. Lingad Memorial Regional Hospital,Yes,Recovered,repatriate from the Diamond Princess cruise ship; quarantined in New Clark City,,Jose B. Lingad Memorial Regional Hospital,15.0345719,120.68463230116413
+26,2020-03-10,34,M,Filipino,Jose B. Lingad Memorial Regional Hospital,Yes,Recovered,repatriate from the Diamond Princess cruise ship; quarantined in New Clark City,,Jose B. Lingad Memorial Regional Hospital,15.0345719,120.68463230116413
+27,2020-03-10,42,F,Filipino,The Medical City - Ortigas,No,Admitted,Had contact with Case #9; in the same house as Case #9; currently asymptomatic,,The Medical City - Ortigas,14.589964,121.06906339610711
+28,2020-03-10,69,M,Filipino,The Medical City - Ortigas,No,Recovered,Had contact with Case #9; in the same house as Case #9,,The Medical City - Ortigas,14.589964,121.06906339610711
+29,2020-03-10,82,M,Filipino,The Medical City - Ortigas,No,Died,Had contact with Case #9; in the same house as Case #9,,The Medical City - Ortigas,14.589964,121.06906339610711
+30,2020-03-10,69,F,Filipino,The Medical City - Ortigas,No,Admitted,Had contact with Case #9; in the same house as Case #9; currently asymptomatic,,The Medical City - Ortigas,14.589964,121.06906339610711
+31,2020-03-10,28,F,Filipino,The Medical City - Ortigas,No,Recovered,-,,The Medical City - Ortigas,14.589964,121.06906339610711
+32,2020-03-10,64,M,Filipino,The Medical City - Ortigas,No,Admitted,-,,The Medical City - Ortigas,14.589964,121.06906339610711
+33,2020-03-10,60,M,Filipino,Rizal Medical Center,Yes,Admitted,currently asymptomatic,,Rizal Medical Center,14.563910700000001,121.06612846687781
+34,2020-03-11,72,M,Filipino,Manila Doctors Hospital,No,Admitted,-,,Manila Doctors Hospital,14.58219355,120.98289979408534
+35,2020-03-11,67,F,Filipino,Manila Doctors Hospital,No,Died,First death of a Filipino national due to the virus,,Manila Doctors Hospital,14.58219355,120.98289979408534
+36,2020-03-11,53,M,Filipino,Las Piñas General Hospital,No,Admitted,-,,Las Piñas General Hospital,14.4806089,120.9819099
+37,2020-03-11,88,F,Filipino,Philippine Heart Center,No,Died,-,,Philippine Heart Center,14.64403855,121.04842725955206
+38,2020-03-11,29,M,Filipino,Cardinal Santos Medical Center,No,Admitted,currently asymptomatic,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+39,2020-03-11,64,M,Filipino,"ACE Dumaguete Doctors, Inc.",No,Died,First public official to be infected; went to Greenhills before going home,,ACE Dumaguete Doctors,9.3173584,123.2959732
+40,2020-03-11,54,M,Filipino,Northern Mindanao Medical Center,No,Died,Resident of Pasig City since 2017 but went home to permanent residence at Lanao del Sur,,Northern Mindanao Medical Center,8.48539205,124.64963773057275
+41,2020-03-11,75,F,Filipino,Makati Medical Center,Yes,Recovered,-,,Makati Medical Center,14.5593106,121.01480235528001
+42,2020-03-11,51,M,Filipino,The Medical City - Ortigas,Yes,Recovered,currently asymptomatic,,The Medical City - Ortigas,14.589964,121.06906339610711
+43,2020-03-11,47,M,Filipino,Lung Center of the Philippines,No,Admitted,Wife of Case #43 is sister of Case #12; currently asymptomatic,,Lung Center Philippines,14.64748145,121.04587919677965
+44,2020-03-11,70,F,Filipino,Makati Medical Center,No,Admitted,currently asymptomatic,,Makati Medical Center,14.5593106,121.01480235528001
+45,2020-03-11,27,M,Filipino,Makati Medical Center,No,Admitted,Had a contact with a known COVID-19 case; doctor at an undisclosed hospital,,Makati Medical Center,14.5593106,121.01480235528001
+46,2020-03-11,66,F,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,-,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+47,2020-03-11,53,M,Filipino,St. Luke's Medical Center - Quezon City,Yes,Admitted,-,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+48,2020-03-11,57,M,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,Had contact with a known COVID-19 case,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+49,2020-03-11,72,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),No,Recovered,-,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+50,2020-03-11,69,F,Filipino,The Medical City - Ortigas,No,Admitted,-,,The Medical City - Ortigas,14.589964,121.06906339610711
+51,2020-03-11,26,M,Filipino,Makati Medical Center,No,Recovered,-,,Makati Medical Center,14.5593106,121.01480235528001
+52,2020-03-11,79,F,Filipino,Asian Hospital and Medical Center (Muntinlupa),Yes,Died,-,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+53,2020-03-12,30,M,Filipino,San Lazaro Hospital,Yes,Admitted,-,,San Lazaro Hospital,14.614117,120.98058146200714
+54,2020-03-12,40,M,Filipino,San Lazaro Hospital,No,Died,-,,San Lazaro Hospital,14.614117,120.98058146200714
+55,2020-03-13,59,F,Filipino,Cardinal Santos Medical Center,No,Admitted,-,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+56,2020-03-13,41,M,Filipino,St. Luke's Medical Center - Global City,No,Admitted,currently asymptomatic,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+57,2020-03-13,65,M,Filipino,Lung Center of the Philippines,Yes,Died,-,,Lung Center Philippines,14.64748145,121.04587919677965
+58,2020-03-13,45,F,Filipino,The Medical City - Ortigas,No,Admitted,Had contact with a known COVID-19 case; currently asymptomatic,,The Medical City - Ortigas,14.589964,121.06906339610711
+59,2020-03-13,27,M,Filipino,Makati Medical Center,No,Admitted,Had contact with a known COVID-19 case,,Makati Medical Center,14.5593106,121.01480235528001
+60,2020-03-13,49,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,-,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+61,2020-03-13,70,F,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,No,Admitted,-,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+63,2020-03-13,33,M,Filipino,Marikina Valley Medical Center,No,Admitted,Porac,,Marikina Valley Medical Center,14.6349616,121.1039083943592
+64,2020-03-13,32,M,Filipino,St. Joseph Hospital and Medical Center,No,Admitted,"Permanent resident of Orani, Bataan; lives in a boarding house in Sampaloc, Manila",,Bataan St. Joseph Hospital Medical Center,14.6814951,120.5416046
+65,2020-03-13,70,M,Filipino,Veterans Memorial Medical Center,No,Admitted,currently asymptomatic,,Veterans Memorial Medical Center,14.656373349999999,121.03981246339595
+66,2020-03-13,25,M,Filipino,DOH Epidemiology Bureau,No,Recovered,TBA,,Department of Health (Philippines),14.615603799999999,120.98128128126282
+67,2020-03-13,23,F,Filipino,Sta. Ana Hospital,No,Admitted,TBA,,Sta. Ana Hospital,14.58358825,121.01644313089305
+68,2020-03-13,32,M,Filipino,The Medical City - Ortigas,No,Admitted,Had contact with a known COVID-19 case; currently asymptomatic,,The Medical City - Ortigas,14.589964,121.06906339610711
+69,2020-03-13,28,F,Filipino,The Medical City - Ortigas,No,Admitted,Had contact with a known COVID-19 case; currently asymptomatic,,The Medical City - Ortigas,14.589964,121.06906339610711
+70,2020-03-13,35,M,Filipino,Quezon Medical Center,Yes,Admitted,Lucena City,,Quezon Medical Center,13.942225749999999,121.61252019744899
+71,2020-03-13,59,M,Filipino,San Lazaro Hospital,No,Admitted,TBA,,San Lazaro Hospital,14.614117,120.98058146200714
+72,2020-03-13,41,M,Filipino,The Medical City - Ortigas,Yes,Admitted,Santa Rosa,,The Medical City - Ortigas,14.589964,121.06906339610711
+73,2020-03-13,54,M,Filipino,Our Lady of Lourdes Hospital,Yes,Recovered,TBA,,Our Lady of Lourdes Hospital,14.121015700000001,122.9470513
+74,2020-03-13,49,M,Filipino,East Avenue Medical Center,No,Admitted,TBA,,East Avenue Medical Center,14.6419083,121.04793075343855
+75,2020-03-13,64,M,Filipino,Rizal Medical Center,No,Admitted,Had contact with a known COVID-19 case,,Rizal Medical Center,14.563910700000001,121.06612846687781
+76,2020-03-13,59,M,Filipino,The Medical City - Ortigas,No,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+77,2020-03-13,60,M,Filipino,Fatima University Medical Center,No,Admitted,First resident from Antipolo to be infected,,Fatima University Medical Center,14.67805125,120.98048652208914
+78,2020-03-13,63,F,For Validation,Chinese General Hospital and Medical Center,No,Admitted,currently asymptomatic,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+79,2020-03-13,68,M,Filipino,Manila Doctors Hospital,No,Died,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+80,2020-03-14,52,M,Filipino,University of Santo Tomas Hospital,No,Admitted,TBA,,University Santo Tomas Hospital,14.10896475,121.14341535961711
+81,2020-03-14,25,F,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+82,2020-03-14,66,M,Filipino,University of Santo Tomas Hospital,No,Recovered,TBA,,University Santo Tomas Hospital,14.10896475,121.14341535961711
+84,2020-03-13,38,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),No,Admitted,currently asymptomatic,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+86,2020-03-13,48,M,Filipino,Research Institute for Tropical Medicine (Muntinlupa),No,Admitted,currently asymptomatic,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+87,2020-03-14,76,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),No,Recovered,TBA,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+88,2020-03-14,33,M,Filipino,Quirino Memorial Medical Center,No,Recovered,currently asymptomatic,,Quirino Memorial Medical Center,14.6225632,121.07266242678826
+89,2020-03-13,67,M,Filipino,Our Lady of Mt. Carmel Medical Center,No,Died,San Fernando,,Our Lady of Mt. Carmel Medical Center,15.09639535,120.62385982698073
+90,2020-03-13,66,F,Filipino,The Medical City - Ortigas,No,Admitted,Had contact with a known COVID-19 case; currently asymptomatic,,The Medical City - Ortigas,14.589964,121.06906339610711
+91,2020-03-13,27,F,Filipino,The Medical City - Ortigas,No,Admitted,Had contact with a known COVID-19 case,,The Medical City - Ortigas,14.589964,121.06906339610711
+92,2020-03-13,69,M,Filipino,St. Luke's Medical Center - Global City,No,Admitted,currently asymptomatic,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+93,2020-03-13,47,M,Filipino,Jose B. Lingad Memorial Regional Hospital,No,Admitted,Had contact with a known COVID-19 case,,Jose B. Lingad Memorial Regional Hospital,15.0345719,120.68463230116413
+94,2020-03-13,49,M,Filipino,Qualimed - Sta. Rosa Hospital,TBA,Admitted,currently asymptomatic,,QualiMed Santa Rosa,14.232012600000001,121.05271221787301
+95,2020-03-14,64,F,Filipino,San Lazaro Hospital,No,Recovered,TBA,,San Lazaro Hospital,14.614117,120.98058146200714
+96,2020-03-14,39,M,Filipino,Ilocos Training and Regional Medical Center,Yes,Admitted,"Probable resident of Manabo. Also went to Sallapadan, Bucloc, and Licuan-Baay.",,Ilocos Training Regional Medical Center,16.591255949999997,120.31824690186755
+97,2020-03-14,69,M,Filipino,San Lazaro Hospital,No,Admitted,TBA,,San Lazaro Hospital,14.614117,120.98058146200714
+98,2020-03-14,50,M,Filipino,Cardinal Santos Medical Center,No,Admitted,currently asymptomatic,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+99,2020-03-16,33,M,Filipino,Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium,No,Admitted,San Jose del Monte,,Dr. Jose N. Rodriguez Memorial Hospital,14.76667625,121.06468840472849
+100,2020-03-15,30,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,No,Admitted,currently asymptomatic,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+101,2020-03-16,55,M,Filipino,St. Luke's Medical Center - Global City,No,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+102,2020-03-16,55,M,Filipino,Makati Medical Center,No,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+103,2020-03-16,31,M,Filipino,Lung Center of the Philippines,No,Admitted,Had contact with a known COVID-19 case; currently asymptomatic,,Lung Center Philippines,14.64748145,121.04587919677965
+104,2020-03-16,62,M,Filipino,Lung Center of the Philippines,No,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+105,2020-03-16,38,M,Filipino,The Medical City - Ortigas,TBA,Admitted,currently asymptomatic,,The Medical City - Ortigas,14.589964,121.06906339610711
+106,2020-03-15,75,F,Filipino,The Medical City - Ortigas,No,Admitted,currently asymptomatic,,The Medical City - Ortigas,14.589964,121.06906339610711
+107,2020-03-16,57,F,Filipino,Philippine Heart Center,No,Admitted,TBA,,Philippine Heart Center,14.64403855,121.04842725955206
+108,2020-03-14,38,M,Filipino,St. Luke's Medical Center - Global City,Yes,Admitted,currently asymptomatic,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+109,2020-03-15,44,M,Filipino,St. Luke's Medical Center - Global City,No,Recovered,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+110,2020-03-16,27,F,Thai,St. Luke's Medical Center - Global City,No,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+111,For Validation,44,M,Filipino,St. Luke's Medical Center - Global City,No,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+112,2020-03-14,41,M,Filipino,St. Luke's Medical Center - Global City,No,Recovered,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+113,2020-03-14,31,F,Filipino,St. Luke's Medical Center - Global City,Yes,Admitted,Had contact with a known COVID-19 case,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+114,2020-03-14,35,M,Filipino,St. Luke's Medical Center - Global City,Yes,Recovered,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+115,2020-03-15,66,M,Thai,St. Luke's Medical Center - Quezon City,Yes,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+116,2020-03-15,70,F,Filipino,St. Luke's Medical Center - Quezon City,Yes,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+117,2020-03-15,68,M,Filipino,St. Luke's Medical Center - Quezon City,Yes,Admitted,Guiguinto,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+118,2020-03-15,60,M,Filipino,San Lazaro Hospital,No,Admitted,TBA,,San Lazaro Hospital,14.614117,120.98058146200714
+119,2020-03-15,58,M,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,currently asymptomatic,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+120,2020-03-15,29,F,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,Had contact with a known COVID-19 case,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+121,2020-03-15,37,M,Filipino,St. Luke's Medical Center - Quezon City,Yes,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+122,2020-03-15,41,M,Filipino,"Metro North Medical Center and Hospital, Inc.",No,Recovered,TBA,,Metro North Medical Center Hospital,14.66897935,121.03373768242815
+123,2020-03-15,55,M,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+124,2020-03-15,65,M,Filipino,Lung Center of the Philippines,Yes,Died,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+125,2020-03-15,36,M,Filipino,Chinese General Hospital and Medical Center,Yes,Admitted,currently asymptomatic,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+126,2020-03-15,76,M,Filipino,Adventist Medical Center,No,Died,TBA,,Adventist Medical Center Manila,14.55602185,120.9953013915066
+127,2020-03-15,24,F,Filipino,San Lazaro Hospital,Yes,Admitted,TBA,,San Lazaro Hospital,14.614117,120.98058146200714
+128,2020-03-15,25,F,Filipino,Marikina Valley Medical Center,Yes,Admitted,currently asymptomatic,,Marikina Valley Medical Center,14.6349616,121.1039083943592
+129,2020-03-15,67,M,Filipino,Diliman Doctors Hospital,No,Died,TBA,,Diliman Doctors Hospital,14.66820725,121.076109265676
+130,2020-03-15,21,F,Filipino,Davao Regional Medical Center,Yes,Recovered,currently asymptomatic,,Davao Regional Medical Center,7.42072955,125.82878036991721
+131,2020-03-15,29,F,Filipino,Our Lady of Lourdes Hospital,Yes,Admitted,Had contact with a known COVID-19 case,,Our Lady of Lourdes Hospital,14.121015700000001,122.9470513
+132,2020-03-15,69,M,Filipino,Makati Medical Center,No,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+133,2020-03-15,27,M,Filipino,Quirino Memorial Medical Center,No,Admitted,currently asymptomatic,,Quirino Memorial Medical Center,14.6225632,121.07266242678826
+134,2020-03-15,47,F,Filipino,Quirino Memorial Medical Center,No,Admitted,TBA,,Quirino Memorial Medical Center,14.6225632,121.07266242678826
+135,2020-03-15,13,F,Filipino,Quirino Memorial Medical Center,No,Recovered,TBA,,Quirino Memorial Medical Center,14.6225632,121.07266242678826
+136,2020-03-15,47,M,Filipino,The Medical City - Ortigas,No,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+137,2020-03-15,27,F,Filipino,The Medical City - Ortigas,No,Admitted,currently asymptomatic,,The Medical City - Ortigas,14.589964,121.06906339610711
+138,2020-03-15,58,M,Filipino,San Lazaro Hospital,No,Admitted,currently asymptomatic,,San Lazaro Hospital,14.614117,120.98058146200714
+140,2020-03-15,47,F,Filipino,Asian Hospital and Medical Center (Muntinlupa),No,Admitted,currently asymptomatic,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+141,2020-03-16,63,M,Filipino,The Medical City - Ortigas,No,Admitted,currently asymptomatic,,The Medical City - Ortigas,14.589964,121.06906339610711
+142,2020-03-16,50,M,Filipino,DOH Epidemiology Bureau,TBA,Admitted,currently asymptomatic,,Department of Health (Philippines),14.615603799999999,120.98128128126282
+143,2020-03-16,73,M,Filipino,Cardinal Santos Medical Center,No,Recovered,currently asymptomatic,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+144,2020-03-16,74,F,Filipino,Cardinal Santos Medical Center,No,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+145,2020-03-16,32,M,Filipino,Cotabato Regional and Medical Center,Yes,Admitted,Resident of Cotabato City,,Cotabato Regional Medical Center,7.1998768,124.23662781401399
+146,2020-03-16,52,M,Filipino,Cardinal Santos Medical Center,Yes,Admitted,currently asymptomatic,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+147,2020-03-16,70,F,Filipino,Cardinal Santos Medical Center,No,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+148,2020-03-16,54,M,Filipino,Cardinal Santos Medical Center,No,Admitted,currently asymptomatic,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+149,2020-03-16,61,F,Filipino,Manila Doctors Hospital,No,Admitted,currently asymptomatic,,Manila Doctors Hospital,14.58219355,120.98289979408534
+150,2020-03-16,57,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+151,2020-03-16,78,F,Filipino,St. Luke's Medical Center - Global City,No,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+152,2020-03-16,40,M,Filipino,St. Luke's Medical Center - Global City,No,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+153,2020-03-16,34,F,Filipino,St. Luke's Medical Center - Global City,No,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+155,2020-03-16,48,M,Filipino,Research Institute for Tropical Medicine (Muntinlupa),No,Admitted,TBA,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+157,2020-03-16,66,F,Filipino,Las Piñas General Hospital,No,Admitted,TBA,,Las Piñas General Hospital,14.4806089,120.9819099
+158,2020-03-16,48,M,Filipino,Las Piñas General Hospital,No,Admitted,TBA,,Las Piñas General Hospital,14.4806089,120.9819099
+159,2020-03-16,50,M,For Validation,Victor R. Potenciano Medical Center,TBA,Admitted,TBA,,Victor R. Potenciano Medical Center,14.57698865,121.05002705834283
+160,2020-03-16,86,F,Filipino,Cardinal Santos Medical Center,No,Died,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+161,2020-03-16,38,M,Filipino,Manila Doctors Hospital,No,Admitted,currently asymptomatic,,Manila Doctors Hospital,14.58219355,120.98289979408534
+162,2020-03-16,71,M,Filipino,San Lazaro Hospital,No,Admitted,TBA,,San Lazaro Hospital,14.614117,120.98058146200714
+163,2020-03-16,55,M,Filipino,Diliman Doctors Hospital,No,Recovered,TBA,,Diliman Doctors Hospital,14.66820725,121.076109265676
+164,2020-03-16,28,F,Filipino,Rizal Medical Center,No,Admitted,TBA,,Rizal Medical Center,14.563910700000001,121.06612846687781
+165,2020-03-16,50,F,Filipino,Sta. Ana Hospital,No,Admitted,TBA,,Sta. Ana Hospital,14.58358825,121.01644313089305
+166,2020-03-16,53,M,Filipino,Sta. Ana Hospital,No,Admitted,TBA,,Sta. Ana Hospital,14.58358825,121.01644313089305
+167,2020-03-17,48,F,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+168,2020-03-17,35,F,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+169,2020-03-16,60,M,Filipino,DOH Epidemiology Bureau,No,Admitted,TBA,,Department of Health (Philippines),14.615603799999999,120.98128128126282
+171,2020-03-17,55,M,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+172,2020-03-17,69,M,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,currently asymptomatic,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+173,2020-03-17,28,M,Filipino,Rizal Medical Center,No,Admitted,TBA,,Rizal Medical Center,14.563910700000001,121.06612846687781
+174,2020-03-16,39,F,Indian,Victor R. Potenciano Medical Center,Yes,Admitted,TBA,,Victor R. Potenciano Medical Center,14.57698865,121.05002705834283
+177,2020-03-16,70,M,Filipino,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+178,2020-03-16,74,M,Filipino,Medical Center Manila,No,Died,TBA,,Medical Center Manila,14.58248,120.98543971329903
+179,2020-03-16,59,M,Filipino,St. Luke's Medical Center - Global City,No,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+181,2020-03-16,39,M,For Validation,Metropolitan Medical Center,Yes,Admitted,TBA,,Metropolitan Medical Center,14.609395,120.9784765
+182,2020-03-16,74,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),Yes,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+183,2020-03-16,82,F,Filipino,Asian Hospital and Medical Center (Muntinlupa),No,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+184,2020-03-16,28,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+185,2020-03-16,48,M,Filipino,The Medical City - Ortigas,No,Admitted,currently asymptomatic,,The Medical City - Ortigas,14.589964,121.06906339610711
+186,2020-03-16,28,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+188,2020-03-16,65,M,Filipino,Chong Hua Hospital,TBA,Admitted,TBA,,Chong Hua Hospital,10.310072550000001,123.8913431005355
+189,2020-03-16,49,M,Filipino,Mandaluyong City Medical Center,No,Admitted,TBA,,Mandaluyong City Medical Center,14.576249350000001,121.03549848726468
+190,2020-03-16,37,F,Filipino,Cardinal Santos Medical Center,No,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+192,2020-03-16,75,M,Filipino,San Juan Medical Center,Yes,Admitted,TBA,,San Juan Medical Center,14.6065287,121.02349541622945
+193,2020-03-16,41,F,For Validation,San Juan Medical Center,TBA,Admitted,TBA,,San Juan Medical Center,14.6065287,121.02349541622945
+194,2020-03-16,42,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),Yes,Admitted,TBA,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+195,2020-03-18,56,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,No,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+197,2020-03-18,77,M,Filipino,The Medical City - Ortigas,No,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+198,2020-03-18,65,F,Filipino,The Medical City - Ortigas,No,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+199,2020-03-18,69,F,Filipino,The Medical City - Ortigas,Yes,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+200,2020-03-18,34,M,Filipino,Philippine Heart Center,No,Died,TBA,,Philippine Heart Center,14.64403855,121.04842725955206
+201,2020-03-18,58,M,Filipino,Amai Pakpak Medical Center,Yes,Died,Plausible link with the cluster of cases in a mosque in Malaysia,,Amai Pakpak Medical Center,8.004723649999999,124.2835538892562
+202,2020-03-18,43,M,Filipino,Divine Grace Medical Center,No,Admitted,TBA,,Divine Grace Hospital,14.39799105,120.86812319957299
+203,2020-03-18,60,F,Filipino,The Medical City - Ortigas,No,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+204,2020-03-18,32,F,Filipino,Manila Doctors Hospital,No,Recovered,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+205,2020-03-18,73,M,Filipino,The Medical City - Ortigas,No,Died,Died before tests returned positive,,The Medical City - Ortigas,14.589964,121.06906339610711
+206,For Validation,25,M,Filipino,The Medical City - Ortigas,No,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+207,For Validation,36,M,Filipino,The Medical City - Ortigas,No,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+208,2020-03-18,69,M,Filipino,Philippine Heart Center,TBA,Admitted,TBA,,Philippine Heart Center,14.64403855,121.04842725955206
+209,2020-03-18,74,M,Filipino,Chinese General Hospital and Medical Center,No,Admitted,TBA,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+210,For Validation,81,M,Filipino,Chinese General Hospital and Medical Center,No,Died,TBA,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+211,2020-03-18,34,M,Filipino,Chinese General Hospital and Medical Center,No,Admitted,TBA,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+212,2020-03-18,21,M,Filipino,Chinese General Hospital and Medical Center,No,Admitted,TBA,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+213,2020-03-18,46,M,Filipino,Chinese General Hospital and Medical Center,No,Admitted,TBA,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+214,2020-03-18,44,M,Indian,Capitol Medical Center,Yes,Admitted,TBA,,Capitol Medical Center,14.634329,121.0226836
+215,2020-03-18,71,M,Filipino,Philippine Heart Center,No,Died,TBA,,Philippine Heart Center,14.64403855,121.04842725955206
+216,2020-03-18,44,M,Filipino,Cardinal Santos Medical Center,No,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+217,2020-03-18,54,M,Filipino,Cardinal Santos Medical Center,No,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+218,For Validation,30,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+219,2020-03-20,72,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+220,2020-03-20,67,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+221,2020-03-20,33,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+222,2020-03-20,54,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+223,2020-03-20,25,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+224,2020-03-20,51,M,Filipino,DOH Epidemiology Bureau,TBA,Admitted,TBA,,Department of Health (Philippines),14.615603799999999,120.98128128126282
+225,2020-03-20,33,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+226,2020-03-20,69,M,Filipino,De Los Santos Medical Center,TBA,Admitted,TBA,,De Los Santos Medical Center,14.6202997,121.01777544027627
+227,2020-03-20,55,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Died,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+228,2020-03-20,36,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+229,2020-03-20,57,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+230,2020-03-20,48,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+231,2020-03-20,47,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+232,2020-03-20,63,F,For Validation,San Juan Medical Center,TBA,Admitted,TBA,,San Juan Medical Center,14.6065287,121.02349541622945
+233,2020-03-19,26,F,Filipino,San Juan Medical Center,TBA,Admitted,TBA,,San Juan Medical Center,14.6065287,121.02349541622945
+234,2020-03-20,35,F,Filipino,Fe Del Mundo Medical Center,TBA,Admitted,TBA,,Dr. Fe Del Mundo Medical Center,14.62060365,121.0092301561046
+235,2020-03-20,30,M,Filipino,Victor R. Potenciano Medical Center,No,Recovered,TBA,,Victor R. Potenciano Medical Center,14.57698865,121.05002705834283
+236,2020-03-20,54,F,Filipino,De Los Santos Medical Center,TBA,Admitted,TBA,,De Los Santos Medical Center,14.6202997,121.01777544027627
+237,2020-03-20,50,M,For Validation,De Los Santos Medical Center,TBA,Admitted,TBA,,De Los Santos Medical Center,14.6202997,121.01777544027627
+238,2020-03-20,47,F,Filipino,San Pedro Calungsod Medical Center,TBA,Admitted,TBA,,San Pedro Calungsod Medical Center,14.4277236,120.89480224426734
+239,2020-03-20,76,M,Filipino,Binakayan Hospital and Medical Center,TBA,Died,TBA,,Binakayan Hospital Medical Center,14.4519604,120.9260881
+240,2020-03-20,35,M,Filipino,Daniel O. Mercado Medical Center,TBA,Admitted,TBA,,Daniel O. Mercado Medical Center,14.0796123,121.15104948192382
+241,2020-03-20,29,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+242,2020-03-20,37,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+243,2020-03-20,60,F,For Validation,National Kidney and Transplant Institute,TBA,Admitted,TBA,,National Kidney Transplant Institute,14.646848250000001,121.04721757276744
+244,2020-03-20,41,F,Filipino,La Union Medical Center,TBA,Admitted,TBA,,La Union Medical Center Ilocos,16.3466222,120.3635465
+245,2020-03-20,44,M,Filipino,La Union Medical Center,TBA,Admitted,TBA,,La Union Medical Center Ilocos,16.3466222,120.3635465
+246,2020-03-20,37,M,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+247,2020-03-20,59,F,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+248,2020-03-20,55,F,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+251,2020-03-20,29,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+252,2020-03-20,60,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+253,2020-03-20,32,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+254,2020-03-20,33,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+255,2020-03-20,46,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+256,2020-03-20,66,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+258,2020-03-20,68,F,American,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+259,2020-03-20,70,M,Filipino,The Medical City - Ortigas,No,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+261,2020-03-20,31,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+262,2020-03-20,45,M,Filipino,Southern Philippines Medical Center,TBA,Admitted,TBA,,Southern Philippines Medical Center,7.09978495,125.61950634691405
+263,2020-03-20,46,F,Filipino,Southern Philippines Medical Center,TBA,Admitted,TBA,,Southern Philippines Medical Center,7.09978495,125.61950634691405
+264,2020-03-20,89,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+265,2020-03-20,82,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+266,2020-03-20,71,M,Filipino,Cardinal Santos Medical Center,No,Died,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+267,For Validation,56,M,For Validation,Dr. Pablo O. Torre Memorial Hospital,TBA,Admitted,TBA,,Riverside Hospital Bacolod,10.68310545,122.95768201600865
+268,2020-03-20,77,M,For Validation,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+269,For Validation,51,M,Filipino,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+270,2020-03-20,56,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+271,2020-03-20,60,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+272,2020-03-20,68,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+273,2020-03-20,26,M,Australian,Ospital Ng Palawan,TBA,Admitted,TBA,,Ospital Ng Palawan,9.747911850000001,118.74447483551802
+274,2020-03-20,66,M,Japanese,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+275,2020-03-20,44,M,Filipino,Divine Mercy Wellness Center,TBA,Admitted,TBA,,Divine Mercy Wellness Center,17.61082175,121.72707002554546
+276,2020-03-20,54,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+277,2020-03-20,72,F,Filipino,Cardinal Santos Medical Center,TBA,Died,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+278,2020-03-20,72,F,Filipino,Cardinal Santos Medical Center,No,Died,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+279,2020-03-20,73,M,Filipino,Cardinal Santos Medical Center,No,Died,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+280,2020-03-20,69,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+281,2020-03-20,57,M,Filipino,Cardinal Santos Medical Center,No,Died,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+282,2020-03-20,68,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+283,2020-03-20,47,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+284,2020-03-21,65,M,Filipino,The Medical City - Iloilo,TBA,Admitted,TBA,,The Medical City - Iloilo,10.699445650000001,122.54310490024237
+285,2020-03-21,43,M,For Validation,Dr. Paulino J. Garcia Memorial Research and Medical Hospital,TBA,Admitted,TBA,,Dr. Paulino J. Garcia Memorial Research and Medical Center,15.489462849999999,120.97275970736415
+286,2020-03-21,45,M,For Validation,Dr. Paulino J. Garcia Memorial Research and Medical Hospital,TBA,Admitted,TBA,,Dr. Paulino J. Garcia Memorial Research and Medical Center,15.489462849999999,120.97275970736415
+287,2020-03-21,56,F,Chinese,Chinese General Hospital and Medical Center,TBA,Admitted,TBA,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+288,2020-03-21,32,M,Filipino,Philippine Heart Center,TBA,Admitted,TBA,,Philippine Heart Center,14.64403855,121.04842725955206
+289,2020-03-21,53,F,For Validation,East Avenue Medical Center,TBA,Admitted,TBA,,East Avenue Medical Center,14.6419083,121.04793075343855
+290,2020-03-21,47,F,For Validation,Pasig Doctors Medical Center,TBA,Admitted,TBA,,Pasig Doctors Medical Center,14.60097145,121.09228884336243
+292,2020-03-21,55,F,For Validation,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+293,2020-03-21,43,F,For Validation,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+301,2020-03-21,57,F,Filipino,San Lazaro Hospital,TBA,Admitted,TBA,,San Lazaro Hospital,14.614117,120.98058146200714
+302,2020-03-21,31,F,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+303,2020-03-21,24,M,Filipino,Bataan General Hospital and Medical Center,No,Admitted,Limay,,Bataan General Hospital Medical Center,14.6782571,120.53021274307176
+304,2020-03-21,89,M,Filipino,Jose B. Lingad Memorial Regional Hospital,No,Died,Had contact with a known COVID-19 case,,Jose B. Lingad Memorial Regional Hospital,15.0345719,120.68463230116413
+305,2020-03-21,63,F,For Validation,Manila Doctors Hospital,TBA,Admitted,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+306,2020-03-21,67,F,Filipino,Manila Doctors Hospital,TBA,Died,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+307,2020-03-21,62,F,Filipino,Rizal Medical Center,TBA,Admitted,TBA,,Rizal Medical Center,14.563910700000001,121.06612846687781
+308,2020-03-21,62,M,Filipino,Rizal Medical Center,TBA,Admitted,TBA,,Rizal Medical Center,14.563910700000001,121.06612846687781
+309,2020-03-21,35,M,For Validation,Rizal Medical Center,TBA,Admitted,TBA,,Rizal Medical Center,14.563910700000001,121.06612846687781
+310,2020-03-21,60,F,Filipino,San Lazaro Hospital,Yes,Died,TBA,,San Lazaro Hospital,14.614117,120.98058146200714
+311,2020-03-21,50,M,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+312,2020-03-21,48,M,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+313,2020-03-21,63,M,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+314,2020-03-21,46,M,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+315,2020-03-21,37,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+316,2020-03-21,40,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+317,2020-03-21,75,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+318,2020-03-21,62,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+319,2020-03-21,56,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Died,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+320,2020-03-21,51,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+321,2020-03-21,46,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Died,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+322,2020-03-21,59,M,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+323,2020-03-21,25,F,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+324,2020-03-21,26,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+325,2020-03-21,52,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+326,2020-03-21,57,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Died,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+327,2020-03-21,46,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Died,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+328,2020-03-21,74,M,Filipino,St. Luke's Medical Center - Quezon City,No,Died,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+329,2020-03-21,23,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+330,2020-03-21,50,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+331,2020-03-21,27,F,Filipino,St. Luke's Medical Center - Quezon City,Yes,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+332,2020-03-21,54,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+333,2020-03-21,65,M,Filipino,St. Luke's Medical Center - Quezon City,No,Died,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+334,2020-03-21,67,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+335,2020-03-21,23,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+336,2020-03-21,51,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+337,2020-03-21,54,M,Filipino,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+339,For Validation,44,M,Filipino,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+340,2020-03-21,52,M,Filipino,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+341,2020-03-21,26,F,Filipino,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+342,2020-03-21,29,F,Filipino,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+343,For Validation,29,M,Filipino,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+345,For Validation,67,M,Filipino,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+349,2020-03-21,56,M,Filipino,Makati Medical Center,No,Died,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+350,For Validation,67,M,Filipino,Veterans Memorial Medical Center,TBA,Admitted,TBA,,Veterans Memorial Medical Center,14.656373349999999,121.03981246339595
+351,For Validation,56,M,Filipino,Cardinal Santos Medical Center,TBA,Died,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+353,2020-03-20,31,F,For Validation,Rosario Maclang Bautista General Hospital,TBA,Admitted,TBA,,Rosario Maclang Bautista General Hospital,14.686020899999999,121.08941610806676
+354,2020-03-20,80,F,Filipino,Angono Medics Hospital,TBA,Died,TBA,,Angono Medics Hospital,14.5314111,121.1529110057553
+355,2020-03-20,32,M,Filipino,De La Salle University Medical Center,TBA,Admitted,TBA,,De La Salle University Medical Center,14.3296393,120.94371052001567
+356,2020-03-21,71,F,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+357,2020-03-21,33,M,Filipino,Sinai Hospital,TBA,Admitted,TBA,,New Sinai MDI Hospital,14.31764895,121.09872571949757
+358,2020-03-21,35,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Recovered,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+359,2020-03-21,21,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+360,2020-03-21,39,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+361,2020-03-21,30,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+362,2020-03-21,45,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+363,2020-03-21,63,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+364,2020-03-21,49,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+365,2020-03-21,48,F,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+366,2020-03-21,63,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),No,Died,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+367,2020-03-21,78,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Died,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+368,2020-03-20,67,F,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+369,2020-03-20,53,F,Filipino,Fe Del Mundo Medical Center,TBA,Admitted,TBA,,Dr. Fe Del Mundo Medical Center,14.62060365,121.0092301561046
+370,2020-03-20,68,F,For Validation,Olivarez General Hospital,TBA,Admitted,TBA,,Olivarez General Hospital,14.479285650000001,120.99684911682407
+371,2020-03-20,67,F,For Validation,Rizal Medical Center,TBA,Admitted,TBA,,Rizal Medical Center,14.563910700000001,121.06612846687781
+373,2020-03-21,71,M,Filipino,World Citi Medical Center,TBA,Admitted,TBA,,World Citi Medical Center,14.6270627,121.063349
+374,2020-03-21,35,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+375,2020-03-21,33,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+376,2020-03-21,61,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+377,2020-03-21,42,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+378,2020-03-21,31,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+379,2020-03-21,23,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+380,2020-03-17,43,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,,Research Institute Tropical Medicine (Muntinlupa),14.41000685,121.03714354240603
+382,2020-03-22,63,F,Filipino,East Avenue Medical Center,No,Died,TBA,,East Avenue Medical Center,14.6419083,121.04793075343855
+383,2020-03-22,27,F,Filipino,East Avenue Medical Center,TBA,Admitted,TBA,,East Avenue Medical Center,14.6419083,121.04793075343855
+384,2020-03-22,70,F,For Validation,Medical Center Parañaque,TBA,Admitted,TBA,,Medical Center Parañaque,14.458432550000001,121.03347205714093
+385,2020-03-22,25,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+386,2020-03-22,56,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+387,2020-03-22,56,M,For Validation,Sacred Heart Hospital of Malolos,TBA,Admitted,TBA,,Sacred Heart Hospital of Malolos,14.8522512,120.81768247237855
+388,2020-03-22,57,F,For Validation,Quezon City Health Department (Reporting Facility),TBA,Admitted,TBA,,"Health Dept., Quezon City",14.64610395,121.05234535
+389,2020-03-22,75,F,Filipino,University of Santo Tomas Hospital,No,Died,TBA,,University Santo Tomas Hospital,14.10896475,121.14341535961711
+390,2020-03-22,30,F,Filipino,Divine Grace Medical Center,TBA,Admitted,TBA,,Divine Grace Hospital,14.39799105,120.86812319957299
+391,2020-03-22,80,F,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,No,Died,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+392,2020-03-22,20,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+393,2020-03-22,74,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,No,Died,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+394,2020-03-22,65,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+395,2020-03-22,69,M,For Validation,Quezon City General Hospital,TBA,Admitted,TBA,,Quezon City General Hospital,14.66110335,121.01815013408611
+396,2020-03-22,25,M,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+398,2020-03-22,29,M,For Validation,Metropolitan Medical Center,TBA,Admitted,TBA,,Metropolitan Medical Center,14.609395,120.9784765
+399,2020-03-22,73,M,For Validation,Metropolitan Medical Center,TBA,Admitted,TBA,,Metropolitan Medical Center,14.609395,120.9784765
+400,2020-03-22,49,M,For Validation,Metropolitan Medical Center,TBA,Admitted,TBA,,Metropolitan Medical Center,14.609395,120.9784765
+401,2020-03-23,62,M,Filipino,Manila Doctors Hospital,No,Died,had contact with a known COVID-19 case,,Manila Doctors Hospital,14.58219355,120.98289979408534
+402,2020-03-23,61,F,Filipino,Manila Doctors Hospital,TBA,Admitted,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+403,2020-03-22,50,M,Filipino,Manila Doctors Hospital,TBA,Admitted,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+404,2020-03-22,73,M,Filipino,Manila Doctors Hospital,TBA,Admitted,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+405,2020-03-22,52,M,Filipino,Manila Doctors Hospital,TBA,Admitted,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+406,2020-03-22,26,M,Filipino,Manila Doctors Hospital,TBA,Admitted,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+407,2020-03-22,41,F,Filipino,Manila Doctors Hospital,TBA,Admitted,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+408,2020-03-22,62,M,Filipino,Philippine Heart Center,TBA,Admitted,TBA,,Philippine Heart Center,14.64403855,121.04842725955206
+409,2020-03-22,30,M,Filipino,Philippine Heart Center,TBA,Admitted,TBA,,Philippine Heart Center,14.64403855,121.04842725955206
+410,2020-03-22,54,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+411,2020-03-22,53,M,For Validation,Perpetual Succor Hospital,TBA,Admitted,TBA,,Perpetual Succor Hospital,14.6472835,121.112223895869
+412,For Validation,65,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+413,2020-03-22,31,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+414,For Validation,34,F,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+415,2020-03-22,78,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+416,2020-03-22,57,F,Filipino,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+417,2020-03-22,52,M,Filipino,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+418,2020-03-22,70,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+419,2020-03-22,33,F,Indonesian,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+420,2020-03-22,68,M,For Validation,Pasig City General Hospital,TBA,Admitted,TBA,,Pasig City General Hospital,14.57241745,121.0992235915069
+421,2020-03-22,28,F,For Validation,National Center for Mental Health,TBA,Admitted,TBA,,National Center for Mental Health,14.5816602,121.04126559258651
+422,2020-03-22,64,F,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+423,2020-03-22,32,F,For Validation,Victor R. Potenciano Medical Center,TBA,Admitted,TBA,,Victor R. Potenciano Medical Center,14.57698865,121.05002705834283
+424,2020-03-22,53,M,Filipino,Victor R. Potenciano Medical Center,TBA,Admitted,TBA,,Victor R. Potenciano Medical Center,14.57698865,121.05002705834283
+425,2020-03-22,69,M,For Validation,Providence Hospital,TBA,Admitted,TBA,,Providence Hospital Quezon,14.641224650000002,121.03167331232544
+426,2020-03-22,57,M,For Validation,Providence Hospital,TBA,Admitted,TBA,,Providence Hospital Quezon,14.641224650000002,121.03167331232544
+429,2020-03-22,62,M,For Validation,Marikina City Health Office,TBA,Admitted,TBA,,Marikina City Health Office,14.6362541,121.09768297483511
+430,2020-03-22,19,M,For Validation,Marikina City Health Office,TBA,Admitted,TBA,,Marikina City Health Office,14.6362541,121.09768297483511
+431,2020-03-22,21,F,For Validation,Mandaluyong City Medical Center,TBA,Admitted,TBA,,Mandaluyong City Medical Center,14.576249350000001,121.03549848726468
+432,2020-03-22,56,F,For Validation,Veterans Memorial Medical Center,TBA,Admitted,TBA,,Veterans Memorial Medical Center,14.656373349999999,121.03981246339595
+433,2020-03-22,70,M,For Validation,Veterans Memorial Medical Center,TBA,Admitted,TBA,,Veterans Memorial Medical Center,14.656373349999999,121.03981246339595
+434,2020-03-22,47,M,For Validation,Veterans Memorial Medical Center,TBA,Admitted,TBA,,Veterans Memorial Medical Center,14.656373349999999,121.03981246339595
+435,2020-03-22,60,M,For Validation,Far Eastern University Nicanor Reyes Medical Foundation Medical Center,TBA,Admitted,TBA,,Far Eastern University Nicanor Reyes Medical Foundation Medical Center,14.69890385,121.06719218653689
+436,2020-03-22,75,M,Filipino,University of Santo Tomas Hospital,TBA,Admitted,TBA,,University Santo Tomas Hospital,14.10896475,121.14341535961711
+437,2020-03-22,57,M,Filipino,University of Santo Tomas Hospital,No,Died,TBA,,University Santo Tomas Hospital,14.10896475,121.14341535961711
+439,2020-03-22,44,F,Filipino,Medical Center Manila,TBA,Admitted,TBA,,Medical Center Manila,14.58248,120.98543971329903
+440,2020-03-22,53,M,Filipino,Medical Center Manila,TBA,Admitted,TBA,,Medical Center Manila,14.58248,120.98543971329903
+441,2020-03-22,61,F,Filipino,Baguio General Hospital and Medical Center,TBA,Admitted,TBA,,Baguio General Hospital Medical Center,16.4011964,120.59612393285582
+442,2020-03-22,28,M,For Validation,Southern Philippines Medical Center,TBA,Admitted,TBA,,Southern Philippines Medical Center,7.09978495,125.61950634691405
+443,2020-03-22,32,M,For Validation,Southern Philippines Medical Center,TBA,Admitted,TBA,,Southern Philippines Medical Center,7.09978495,125.61950634691405
+444,2020-03-22,50,M,For Validation,Davao Regional Medical Center,TBA,Admitted,TBA,,Davao Regional Medical Center,7.42072955,125.82878036991721
+445,2020-03-22,50,M,For Validation,Victor R. Potenciano Medical Center,TBA,Admitted,TBA,,Victor R. Potenciano Medical Center,14.57698865,121.05002705834283
+446,2020-03-22,56,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+447,2020-03-22,49,M,Filipino,Fe Del Mundo Medical Center,TBA,Admitted,TBA,,Dr. Fe Del Mundo Medical Center,14.62060365,121.0092301561046
+448,2020-03-22,70,M,Filipino,Veterans Memorial Medical Center,TBA,Admitted,TBA,,Veterans Memorial Medical Center,14.656373349999999,121.03981246339595
+449,2020-03-22,42,F,For Validation,San Lazaro Hospital,TBA,Admitted,TBA,,San Lazaro Hospital,14.614117,120.98058146200714
+450,2020-03-22,56,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+451,2020-03-22,70,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+452,2020-03-22,63,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+453,2020-03-22,71,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+454,2020-03-22,63,F,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+455,2020-03-22,45,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+456,2020-03-22,51,M,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+457,2020-03-22,37,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+458,2020-03-22,52,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+459,2020-03-22,63,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+460,2020-03-22,54,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+461,2020-03-22,64,M,Filipino,University of Santo Tomas Hospital,TBA,Admitted,TBA,,University Santo Tomas Hospital,14.10896475,121.14341535961711
+462,2020-03-22,83,F,Filipino,University of Santo Tomas Hospital,No,Died,TBA,,University Santo Tomas Hospital,14.10896475,121.14341535961711
+464,For Validation,53,F,For Validation,Jose B. Lingad Memorial Regional Hospital,TBA,Admitted,TBA,,Jose B. Lingad Memorial Regional Hospital,15.0345719,120.68463230116413
+465,For Validation,85,F,For Validation,ACE Medical Center - Pateros,TBA,Admitted,TBA,,ACE Medical Center - Pateros,14.5440845,121.0652174
+466,For Validation,53,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+467,For Validation,56,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+468,For Validation,44,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+469,For Validation,63,M,For Validation,Perpetual Health Medical Center - Biñan,TBA,Admitted,TBA,,Perpetual Help Medical Center - Biñan,14.33043835,121.08533919092724
+470,For Validation,55,M,Filipino,Perpetual Health Medical Center - Biñan,TBA,Admitted,TBA,,Perpetual Help Medical Center - Biñan,14.33043835,121.08533919092724
+471,For Validation,40,F,For Validation,The Medical City - South Luzon,TBA,Admitted,TBA,,The Medical City - South Luzon,14.2485572,121.06733294350212
+472,For Validation,58,F,Filipino,"Uni-Health Southwoods Hospital and Medical Center, Inc.",TBA,Admitted,TBA,,Unihealth Southwoods Hospital Medical Center,14.33162575,121.04759467589082
+473,For Validation,67,F,For Validation,City of General Trias Doctors Medical Center,TBA,Admitted,TBA,,City of General Trias Doctors Medical Center,14.2912185,120.90387619553523
+474,For Validation,63,F,Filipino,Cavite Medical Center,TBA,Admitted,TBA,,Cavite Medical Center,14.463396,120.8818959425312
+475,For Validation,40,F,Filipino,Makati Health Department,TBA,Admitted,TBA,,Makati City Hall,14.5568853,121.023532
+476,For Validation,64,M,Filipino,Makati Health Department,TBA,Admitted,TBA,,Makati City Hall,14.5568853,121.023532
+477,For Validation,33,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+478,For Validation,55,F,Filipino,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+479,For Validation,48,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+480,For Validation,49,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+481,For Validation,54,M,Filipino,Medical Center Taguig,TBA,Admitted,TBA,,Medical Center Taguig,14.530921450000001,121.0654288024109
+486,For Validation,54,F,Filipino,Lucena United Doctors Hospital,TBA,Admitted,TBA,,"Lucena United Doctors, Quezon",13.946984050000001,121.58508706872695
+487,For Validation,26,M,Filipino,Quezon Medical Center,TBA,Admitted,TBA,,Quezon Medical Center,13.942225749999999,121.61252019744899
+488,For Validation,81,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+489,For Validation,51,F,Filipino,Eastern Visayas Regional Medical Center,TBA,Admitted,TBA,,Eastern Visayas Regional Medical Center,11.28894,124.9579409015796
+490,For Validation,56,F,Filipino,Amai Pakpak Medical Center,TBA,Admitted,TBA,,Amai Pakpak Medical Center,8.004723649999999,124.2835538892562
+491,For Validation,61,M,Filipino,Amai Pakpak Medical Center,TBA,Admitted,TBA,,Amai Pakpak Medical Center,8.004723649999999,124.2835538892562
+493,For Validation,70,M,For Validation,Sta. Ana Hospital,TBA,Admitted,TBA,,Sta. Ana Hospital,14.58358825,121.01644313089305
+494,For Validation,66,M,For Validation,Sta. Ana Hospital,TBA,Admitted,TBA,,Sta. Ana Hospital,14.58358825,121.01644313089305
+495,For Validation,24,M,Filipino,Batangas Health Care Hospital - Jesus of Nazareth,TBA,Admitted,TBA,,Jesus of Nazareth Hospital,13.7596952,121.07689673232872
+496,For Validation,53,M,For Validation,National Kidney and Transplant Institute,TBA,Admitted,TBA,,National Kidney Transplant Institute,14.646848250000001,121.04721757276744
+497,For Validation,83,M,For Validation,Capitol Medical Center,TBA,Admitted,TBA,,Capitol Medical Center,14.634329,121.0226836
+498,For Validation,72,F,For Validation,Capitol Medical Center,TBA,Admitted,TBA,,Capitol Medical Center,14.634329,121.0226836
+499,For Validation,29,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+500,For Validation,54,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+501,For Validation,60,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+502,For Validation,56,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+503,For Validation,74,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+504,For Validation,61,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+505,For Validation,32,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+506,For Validation,45,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+507,For Validation,49,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+508,For Validation,74,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+509,For Validation,69,F,For Validation,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+510,For Validation,69,M,For Validation,Las Piñas City Health Office,TBA,Admitted,TBA,,Las Piñas City Health Office,14.450330050000002,120.98289793395631
+511,For Validation,35,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+512,For Validation,53,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+513,For Validation,68,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+514,For Validation,39,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+515,For Validation,71,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+516,For Validation,31,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+517,For Validation,66,M,For Validation,"Las Piñas Doctors Hospital, Inc.",TBA,Admitted,TBA,,Las Piñas Doctors Hospital,14.455615300000002,120.99371706729627
+518,For Validation,24,M,For Validation,Las Piñas City Health Office,TBA,Admitted,TBA,,Las Piñas City Health Office,14.450330050000002,120.98289793395631
+519,For Validation,19,M,For Validation,Dr. Paulino J. Garcia Memorial Research and Medical Hospital,TBA,Admitted,TBA,,Dr. Paulino J. Garcia Memorial Research and Medical Center,15.489462849999999,120.97275970736415
+520,For Validation,49,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+521,For Validation,73,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+522,2020-03-23,61,F,Filipino,The Medical City - Ortigas,No,Died,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+523,For Validation,32,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+524,For Validation,60,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+525,For Validation,79,F,Filipino,Ospital ng Makati,TBA,Admitted,TBA,,Ospital Makati,14.559258750000001,121.01482351435553
+526,For Validation,46,F,For Validation,Antipolo City Health Office,TBA,Admitted,TBA,,Antipolo City Health Office,14.58572685,121.17446573996165
+527,For Validation,50,F,For Validation,Antipolo City Health Office,TBA,Admitted,TBA,,Antipolo City Health Office,14.58572685,121.17446573996165
+528,For Validation,50,F,For Validation,Hospital of the Infant Jesus Medical Center,TBA,Admitted,TBA,,Hospital of the Infant Jesus Medical Center,14.614006150000002,120.98905680835242
+529,For Validation,55,M,For Validation,Bataan General Hospital and Medical Center,TBA,Admitted,TBA,,Bataan General Hospital Medical Center,14.6782571,120.53021274307176
+530,For Validation,49,M,Filipino,Victor R. Potenciano Medical Center,TBA,Admitted,TBA,,Victor R. Potenciano Medical Center,14.57698865,121.05002705834283
+531,For Validation,34,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+532,For Validation,31,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+533,For Validation,20,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+534,For Validation,20,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+535,For Validation,39,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+536,For Validation,37,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+537,For Validation,22,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+538,For Validation,63,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+539,For Validation,69,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+540,2020-03-24,50,M,Filipino,The Medical City - Ortigas,TBA,Died,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+541,For Validation,68,F,For Validation,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+542,For Validation,38,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+543,For Validation,55,F,Filipino,University of Santo Tomas Hospital,TBA,Admitted,TBA,,University Santo Tomas Hospital,14.10896475,121.14341535961711
+544,For Validation,58,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+545,For Validation,39,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+546,For Validation,31,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+547,For Validation,38,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+548,For Validation,47,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+549,For Validation,61,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+550,For Validation,63,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+551,For Validation,31,M,Filipino,Victor R. Potenciano Medical Center,TBA,Admitted,TBA,,Victor R. Potenciano Medical Center,14.57698865,121.05002705834283
+552,For Validation,69,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+553,For Validation,54,M,For Validation,Metropolitan Medical Center,TBA,Admitted,TBA,,Metropolitan Medical Center,14.609395,120.9784765
+554,For Validation,46,M,For Validation,Medical Center Manila,TBA,Admitted,TBA,,Medical Center Manila,14.58248,120.98543971329903
+555,For Validation,51,F,For Validation,Victoriano Luna Medical Center,TBA,Admitted,TBA,,AFP Medical Center,14.63468575,121.05210336549419
+556,For Validation,52,M,For Validation,Victoriano Luna Medical Center,TBA,Admitted,TBA,,AFP Medical Center,14.63468575,121.05210336549419
+558,For Validation,63,M,For Validation,Alabang Medical Clinic,TBA,Admitted,TBA,,Alabang Medical Clinic,14.3910351,121.0443189
+559,For Validation,54,F,For Validation,Las Piñas City Health Office,TBA,Admitted,TBA,,Las Piñas City Health Office,14.450330050000002,120.98289793395631
+560,For Validation,49,M,For Validation,Our Lady of Lourdes Hospital,TBA,Admitted,TBA,,Our Lady of Lourdes Hospital,14.121015700000001,122.9470513
+561,For Validation,42,F,For Validation,"San Pedro Doctors Hospital, Inc.",TBA,Admitted,TBA,,San Pedro Doctors Hospital,14.3488642,121.0649328
+562,For Validation,24,M,For Validation,Dr. Damian Reyes Provincial Hospital,TBA,Admitted,TBA,,Dr. Damian Reyes Provincial Hospital,13.44333145,121.82848065432466
+565,For Validation,48,F,For Validation,New Era General Hospital,TBA,Admitted,TBA,,New Era General Hospital,14.66416375,121.06671201971747
+566,For Validation,73,M,Filipino,New Era General Hospital,TBA,Admitted,TBA,,New Era General Hospital,14.66416375,121.06671201971747
+567,For Validation,67,M,For Validation,New Era General Hospital,TBA,Admitted,TBA,,New Era General Hospital,14.66416375,121.06671201971747
+568,For Validation,38,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+569,For Validation,37,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+570,For Validation,58,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+571,2020-03-23,72,F,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Died,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+572,For Validation,42,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+573,For Validation,45,M,For Validation,Roxas Memorial Provincial Hospital,TBA,Admitted,TBA,,Roxas Memorial Provincial Hospital,11.588057,122.7526823
+574,For Validation,60,F,For Validation,The Medical City - Iloilo,TBA,Admitted,TBA,,The Medical City - Iloilo,10.699445650000001,122.54310490024237
+575,For Validation,54,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+576,For Validation,24,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+577,For Validation,64,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+578,For Validation,51,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+579,For Validation,27,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+580,For Validation,33,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+581,2020-03-24,79,F,Filipino,St. Luke's Medical Center - Global City,No,Died,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+582,For Validation,60,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+583,For Validation,53,M,For Validation,East Avenue Medical Center,TBA,Admitted,TBA,,East Avenue Medical Center,14.6419083,121.04793075343855
+584,For Validation,71,M,For Validation,"Golden Gate Batangas Hospital, Inc.",TBA,Admitted,TBA,,Golden Gate General Hospital,13.75746355,121.06178834701583
+585,For Validation,55,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+586,For Validation,21,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+587,For Validation,79,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+588,For Validation,60,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+589,For Validation,31,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+590,For Validation,63,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+591,For Validation,56,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+592,For Validation,55,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+593,For Validation,65,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+594,For Validation,57,M,For Validation,Far Eastern University Nicanor Reyes Medical Foundation Medical Center,TBA,Admitted,TBA,,Far Eastern University Nicanor Reyes Medical Foundation Medical Center,14.69890385,121.06719218653689
+595,For Validation,38,M,For Validation,St. Clare's Medical Center,TBA,Admitted,TBA,,St. Clare's Medical Center,14.562900549999998,121.00122650407371
+596,For Validation,27,F,Filipino,Northern Mindanao Medical Center,TBA,Admitted,TBA,,Northern Mindanao Medical Center,8.48539205,124.64963773057275
+597,For Validation,71,M,Filipino,Northern Mindanao Medical Center,TBA,Admitted,TBA,,Northern Mindanao Medical Center,8.48539205,124.64963773057275
+598,For Validation,52,F,For Validation,Northern Mindanao Medical Center,TBA,Admitted,TBA,,Northern Mindanao Medical Center,8.48539205,124.64963773057275
+599,For Validation,68,F,For Validation,Cotabato Regional and Medical Center,TBA,Admitted,TBA,,Cotabato Regional Medical Center,7.1998768,124.23662781401399
+600,2020-03-24,87,M,For Validation,St. Loius Hospital,TBA,Died,TBA,,St. Louis Hospital Tacurong,6.67852345,124.66699554588106
+601,For Validation,58,M,For Validation,Marikina Valley Medical Center,TBA,Admitted,TBA,,Marikina Valley Medical Center,14.6349616,121.1039083943592
+602,For Validation,54,M,For Validation,Marikina Valley Medical Center,TBA,Admitted,TBA,,Marikina Valley Medical Center,14.6349616,121.1039083943592
+603,For Validation,57,F,For Validation,Marikina Valley Medical Center,TBA,Admitted,TBA,,Marikina Valley Medical Center,14.6349616,121.1039083943592
+604,2020-03-24,60,M,Filipino,Chinese General Hospital and Medical Center,No,Died,TBA,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+605,For Validation,71,M,Filipino,Chinese General Hospital and Medical Center,TBA,Admitted,TBA,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+606,For Validation,56,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+607,For Validation,70,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+608,For Validation,70,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+609,For Validation,76,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+610,For Validation,28,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+611,For Validation,62,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+612,For Validation,72,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+613,For Validation,29,M,Filipino,West Metro Medical Center,TBA,Admitted,TBA,,West Metro Medical Center,6.9235050000000005,122.079362252516
+614,For Validation,47,F,For Validation,Fatima University Medical Center,TBA,Admitted,TBA,,Fatima University Medical Center,14.67805125,120.98048652208914
+615,For Validation,33,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+616,For Validation,46,M,Filipino,New Clark City,TBA,Admitted,repatriate from the Grand Princess cruise ship,,New Clark City,15.33821245,120.53161603292128
+617,For Validation,28,M,Filipino,New Clark City,TBA,Admitted,repatriate from the Grand Princess cruise ship,,New Clark City,15.33821245,120.53161603292128
+618,For Validation,67,F,Filipino,Philippine General Hospital,TBA,Admitted,TBA,,Philippine General Hospital,14.5780333,120.9855392067257
+619,For Validation,67,F,Filipino,Philippine General Hospital,TBA,Admitted,TBA,,Philippine General Hospital,14.5780333,120.9855392067257
+620,For Validation,58,F,Filipino,Philippine General Hospital,TBA,Admitted,TBA,,Philippine General Hospital,14.5780333,120.9855392067257
+621,For Validation,77,M,Filipino,Philippine General Hospital,TBA,Admitted,TBA,,Philippine General Hospital,14.5780333,120.9855392067257
+622,For Validation,60,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+623,For Validation,49,M,For Validation,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+624,For Validation,74,M,For Validation,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+625,For Validation,70,M,For Validation,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+626,For Validation,55,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+627,For Validation,65,F,For Validation,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+628,For Validation,25,F,For Validation,Quezon City Health Department (Reporting Facility),TBA,Admitted,TBA,,"Health Dept., Quezon City",14.64610395,121.05234535
+629,For Validation,58,M,For Validation,Our Lady of Lourdes Hospital,TBA,Admitted,TBA,,Our Lady of Lourdes Hospital,14.121015700000001,122.9470513
+630,For Validation,61,M,For Validation,Veterans Memorial Medical Center,TBA,Admitted,TBA,,Veterans Memorial Medical Center,14.656373349999999,121.03981246339595
+631,For Validation,34,F,Filipino,Cornel Medical Center,TBA,Admitted,TBA,,Cornel Medical Center,14.6254435,121.1222
+632,For Validation,67,M,For Validation,Clinica Antipolo hospital,TBA,Admitted,TBA,,Clinica Antipolo,14.58957455,121.16981656444958
+633,For Validation,27,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+634,For Validation,57,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+635,2020-03-24,80,F,Filipino,St. Luke's Medical Center - Global City,No,Died,Had contact with an unknown COVID-19 case,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+636,2020-03-25,56,M,Filipino,Jose B. Lingad Memorial Regional Hospital,No,Died,TBA,,Jose B. Lingad Memorial Regional Hospital,15.0345719,120.68463230116413
+637,2020-03-25,75,M,Filipino,St. Luke's Medical Center - Quezon City,No,Died,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+638,For Validation,74,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+640,For Validation,64,M,For Validation,Olivarez General Hospital,TBA,Admitted,TBA,,Olivarez General Hospital,14.479285650000001,120.99684911682407
+641,For Validation,52,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+642,For Validation,72,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+643,For Validation,33,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+644,For Validation,68,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+645,For Validation,29,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+646,For Validation,75,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+647,For Validation,43,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+648,2020-03-25,71,M,Filipino,Our Lady of Lourdes Hospital,TBA,Died,TBA,,Our Lady of Lourdes Hospital,14.121015700000001,122.9470513
+649,For Validation,60,M,For Validation,Clinica Antipolo hospital,TBA,Admitted,TBA,,Clinica Antipolo,14.58957455,121.16981656444958
+650,For Validation,80,F,For Validation,Clinica Antipolo hospital,TBA,Admitted,TBA,,Clinica Antipolo,14.58957455,121.16981656444958
+651,For Validation,63,M,For Validation,Dr. Paulino J. Garcia Memorial Research and Medical Hospital,TBA,Admitted,TBA,,Dr. Paulino J. Garcia Memorial Research and Medical Center,15.489462849999999,120.97275970736415
+652,For Validation,39,M,For Validation,Gerona Hospital of Sacred Heart,TBA,Admitted,TBA,,Gerona Hospital of the Sacred Heart,15.6085847,120.60561125193583
+653,For Validation,65,F,For Validation,"Nueva Ecija Doctors Hospital, Inc.",TBA,Admitted,TBA,,Nueva Ecija Doctors Hospital,15.4578272,120.94883314561189
+654,For Validation,60,F,For Validation,"Nueva Ecija Doctors Hospital, Inc.",TBA,Admitted,TBA,,Nueva Ecija Doctors Hospital,15.4578272,120.94883314561189
+655,For Validation,66,M,For Validation,Pampanga Premier Medical Center,TBA,Admitted,TBA,,Pampanga Premier Medical Center,14.96025805,120.75937396446099
+656,For Validation,73,M,For Validation,Ramon Magsaysay Memorial Hospital,TBA,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+657,For Validation,75,F,For Validation,Tarlac provincial Hospital,TBA,Admitted,TBA,,Tarlac Hospital,15.5277375,120.4192688
+658,For Validation,57,M,For Validation,East Avenue Medical Center,TBA,Admitted,TBA,,East Avenue Medical Center,14.6419083,121.04793075343855
+659,For Validation,67,F,For Validation,Ospital ng Parañaque,TBA,Admitted,TBA,,Ospital Parañaque,14.5241939,120.9965839
+660,For Validation,60,M,For Validation,Ospital ng Parañaque,TBA,Admitted,TBA,,Ospital Parañaque,14.5241939,120.9965839
+661,For Validation,39,M,Filipino,Cagayan Valley Medical Center,TBA,Admitted,TBA,,Cagayan Valley Medical Center,17.6562367,121.74813210188074
+662,For Validation,70,M,Filipino,Cagayan Valley Medical Center,TBA,Admitted,TBA,,Cagayan Valley Medical Center,17.6562367,121.74813210188074
+663,For Validation,44,F,For Validation,Binangonan Lakeview Hospital,TBA,Admitted,TBA,,Binangonan Lakeview Hospital,14.50253955,121.17005965520835
+667,For Validation,50,F,For Validation,Dasmariñas City Medical Center,TBA,Admitted,TBA,,Dasmariñas City Medical Center,14.3534213,120.9815897
+668,For Validation,92,F,Filipino,Laguna Doctors Hospital,TBA,Admitted,TBA,,Laguna Doctors Hospital,14.27479395,121.4171340031392
+669,For Validation,69,M,For Validation,Laguna Medical Center,TBA,Admitted,TBA,,Laguna Medical Center,14.2755232,121.41913745864971
+670,For Validation,39,M,For Validation,Our Lady of Pillar Medical Center,TBA,Admitted,TBA,,Our Lady of the Pillar Medical Center,14.4191702,120.93924976550068
+671,For Validation,89,M,For Validation,San Pedro Calungsod Medical Center,TBA,Admitted,TBA,,San Pedro Calungsod Medical Center,14.4277236,120.89480224426734
+672,For Validation,82,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+673,For Validation,51,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+674,For Validation,46,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+675,For Validation,67,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+676,2020-03-25,64,M,Filipino,Cardinal Santos Medical Center,No,Died,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+677,2020-03-25,60,M,Filipino,Cardinal Santos Medical Center,No,Died,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+678,For Validation,67,F,For Validation,Urdaneta Sacred Heart Hospital,TBA,Admitted,TBA,,Urdaneta Sacred Heart Hospital,15.9806495,120.5705510953204
+679,For Validation,70,M,For Validation,Pangasinan Provincial Hospital,TBA,Admitted,TBA,,Pangasinan Provincial Hospital,15.95430125,120.34961424431083
+680,For Validation,54,F,For Validation,Pangasinan Provincial Hospital,TBA,Admitted,TBA,,Pangasinan Provincial Hospital,15.95430125,120.34961424431083
+681,For Validation,38,M,For Validation,Ilocos Training and Regional Medical Center,TBA,Admitted,TBA,,Ilocos Training Regional Medical Center,16.591255949999997,120.31824690186755
+682,For Validation,60,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+683,For Validation,67,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+684,For Validation,52,F,Filipino,Baguio General Hospital and Medical Center,TBA,Admitted,TBA,,Baguio General Hospital Medical Center,16.4011964,120.59612393285582
+685,For Validation,55,M,Filipino,Baguio General Hospital and Medical Center,TBA,Admitted,TBA,,Baguio General Hospital Medical Center,16.4011964,120.59612393285582
+686,For Validation,51,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+687,For Validation,57,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+688,For Validation,59,M,For Validation,"Uhbi-Parañaque Doctors Hospital, Inc.",TBA,Admitted,TBA,,Parañaque Doctors Hospital,14.485656899999999,121.02867842425692
+689,For Validation,31,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+690,For Validation,57,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+691,For Validation,59,M,For Validation,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+692,For Validation,80,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+693,For Validation,61,F,For Validation,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+694,For Validation,62,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+695,For Validation,25,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+696,For Validation,33,M,For Validation,The Medical City - Ortigas,TBA,Admitted,TBA,,The Medical City - Ortigas,14.589964,121.06906339610711
+698,For Validation,50,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+699,For Validation,61,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+700,For Validation,68,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+701,For Validation,45,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+702,For Validation,34,M,For Validation,Rosario Maclang Bautista General Hospital,TBA,Admitted,TBA,,Rosario Maclang Bautista General Hospital,14.686020899999999,121.08941610806676
+704,For Validation,70,F,For Validation,Diliman Doctors Hospital,TBA,Admitted,TBA,,Diliman Doctors Hospital,14.66820725,121.076109265676
+705,For Validation,61,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+706,For Validation,73,M,For Validation,Diliman Doctors Hospital,TBA,Admitted,TBA,,Diliman Doctors Hospital,14.66820725,121.076109265676
+708,For Validation,61,F,For Validation,Capitol Medical Center,TBA,Admitted,TBA,,Capitol Medical Center,14.634329,121.0226836
+709,For Validation,63,M,For Validation,Capitol Medical Center,TBA,Admitted,TBA,,Capitol Medical Center,14.634329,121.0226836
+710,For Validation,68,M,For Validation,Manila Doctors Hospital,TBA,Admitted,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+712,For Validation,51,M,For Validation,Adventist Medical Center,TBA,Admitted,TBA,,Adventist Medical Center Manila,14.55602185,120.9953013915066
+713,For Validation,35,M,Filipino,New Era General Hospital,TBA,Admitted,TBA,,New Era General Hospital,14.66416375,121.06671201971747
+714,For Validation,59,M,For Validation,Our Lady of Lourdes Hospital,TBA,Admitted,TBA,,Our Lady of Lourdes Hospital,14.121015700000001,122.9470513
+715,For Validation,59,M,For Validation,Medical Center Taguig,TBA,Admitted,TBA,,Medical Center Taguig,14.530921450000001,121.0654288024109
+716,For Validation,89,M,For Validation,Our Lady of Lourdes Hospital,TBA,Admitted,TBA,,Our Lady of Lourdes Hospital,14.121015700000001,122.9470513
+717,For Validation,42,M,For Validation,Ospital ng Makati,TBA,Admitted,TBA,,Ospital Makati,14.559258750000001,121.01482351435553
+718,For Validation,78,M,Filipino,Manila Doctors Hospital,No,Died,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+719,For Validation,65,M,For Validation,Manila Doctors Hospital,TBA,Admitted,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+720,For Validation,33,M,For Validation,Mandaluyong City Medical Center,TBA,Admitted,TBA,,Mandaluyong City Medical Center,14.576249350000001,121.03549848726468
+721,For Validation,39,F,Filipino,De Los Santos Medical Center,TBA,Admitted,TBA,,De Los Santos Medical Center,14.6202997,121.01777544027627
+722,For Validation,65,M,For Validation,Mandaluyong City Medical Center,TBA,Admitted,TBA,,Mandaluyong City Medical Center,14.576249350000001,121.03549848726468
+723,For Validation,39,M,For Validation,Commonwealth Hospital and Medical Center,TBA,Admitted,TBA,,Commonwealth Hospital Medical Center,14.7316205,121.06064807745423
+724,For Validation,55,F,For Validation,Commonwealth Hospital and Medical Center,TBA,Admitted,TBA,,Commonwealth Hospital Medical Center,14.7316205,121.06064807745423
+725,For Validation,53,M,For Validation,Mandaluyong City Medical Center,TBA,Admitted,TBA,,Mandaluyong City Medical Center,14.576249350000001,121.03549848726468
+726,For Validation,64,F,For Validation,Amang Rodriguez Memorial Medical Center,TBA,Admitted,TBA,,Amang Rodriguez Memorial Medical Center,14.636145249999998,121.09845651491982
+727,For Validation,31,F,For Validation,The Medical City - Clark,TBA,Admitted,TBA,,The Medical City - Clark,15.178496500000001,120.57187128514028
+728,For Validation,71,M,For Validation,The Medical City - Clark,TBA,Admitted,TBA,,The Medical City - Clark,15.178496500000001,120.57187128514028
+729,2020-03-25,67,M,Filipino,Chinese General Hospital and Medical Center,TBA,Died,TBA,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+730,2020-03-25,86,M,Filipino,Chinese General Hospital and Medical Center,No,Died,TBA,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+731,2020-03-25,82,M,Filipino,Chinese General Hospital and Medical Center,No,Died,TBA,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+732,For Validation,50,M,Filipino,Chinese General Hospital and Medical Center,TBA,Admitted,TBA,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+733,For Validation,73,F,For Validation,Gentri Medical Center and Hospital,TBA,Admitted,TBA,,Gentri Medical Center Hospital,14.28912985,120.90685379291851
+735,For Validation,58,M,For Validation,Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium,TBA,Admitted,TBA,,Dr. Jose N. Rodriguez Memorial Hospital,14.76667625,121.06468840472849
+736,For Validation,35,M,For Validation,Valenzuela Medical Center,TBA,Admitted,TBA,,Valenzuela Medical Center,14.689770249999999,120.97807237854214
+737,For Validation,29,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+738,For Validation,89,M,For Validation,Diliman Doctors Hospital,TBA,Admitted,TBA,,Diliman Doctors Hospital,14.66820725,121.076109265676
+739,For Validation,52,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+740,For Validation,77,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+741,For Validation,54,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+742,For Validation,43,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+743,For Validation,30,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+745,For Validation,86,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+746,For Validation,66,M,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+747,For Validation,41,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+748,For Validation,30,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+749,For Validation,45,F,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+750,For Validation,33,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+751,For Validation,51,F,For Validation,University of Santo Tomas Hospital,TBA,Admitted,TBA,,University Santo Tomas Hospital,14.10896475,121.14341535961711
+752,For Validation,57,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+753,For Validation,64,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,,Lung Center Philippines,14.64748145,121.04587919677965
+754,For Validation,47,M,For Validation,Philippine General Hospital,TBA,Admitted,TBA,,Philippine General Hospital,14.5780333,120.9855392067257
+755,For Validation,52,F,For Validation,University of Santo Tomas Hospital,TBA,Admitted,TBA,,University Santo Tomas Hospital,14.10896475,121.14341535961711
+756,For Validation,31,M,Filipino,Victor R. Potenciano Medical Center,TBA,Admitted,TBA,,Victor R. Potenciano Medical Center,14.57698865,121.05002705834283
+757,For Validation,51,M,For Validation,Metropolitan Medical Center,TBA,Admitted,TBA,,Metropolitan Medical Center,14.609395,120.9784765
+758,For Validation,52,M,For Validation,RHS 4A Camp Vicente Lim,TBA,Admitted,TBA,,Camp Vicente Lim,14.2156332,121.12148261443787
+759,For Validation,66,M,Filipino,Manila Doctors Hospital,TBA,Admitted,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+760,For Validation,37,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+761,For Validation,65,M,For Validation,The Medical City - South Luzon,TBA,Admitted,TBA,,The Medical City - South Luzon,14.2485572,121.06733294350212
+762,For Validation,70,M,For Validation,Southern Philippines Medical Center,TBA,Admitted,TBA,,Southern Philippines Medical Center,7.09978495,125.61950634691405
+763,For Validation,48,F,For Validation,Bicol Medical Center,TBA,Admitted,TBA,,Bicol Medical Center,13.622872,123.1986884
+764,For Validation,77,M,For Validation,Dagupan Doctors Villaflor Memorial Hospital,TBA,Admitted,TBA,,Dagupan Doctors Villaflor Memorial Hospital,16.037582,120.3469252
+765,For Validation,50,M,For Validation,Bicol Regional Training ang Teaching Hospital,TBA,Admitted,TBA,,Bicol Regional Training Teaching Hospital,13.1467314,123.72438469737428
+766,For Validation,53,M,For Validation,Bicol Regional Training ang Teaching Hospital,TBA,Admitted,TBA,,Bicol Regional Training Teaching Hospital,13.1467314,123.72438469737428
+767,For Validation,59,F,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+768,For Validation,45,M,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,,St. Luke's Medical Center - Quezon City,14.6230026,121.0231956
+769,For Validation,75,F,For Validation,Region 1 Medical Center,TBA,Admitted,TBA,,Region 1 Medical Center,16.0484357,120.34096496993467
+770,For Validation,64,M,For Validation,Far Eastern University Nicanor Reyes Medical Foundation Medical Center,TBA,Admitted,TBA,,Far Eastern University Nicanor Reyes Medical Foundation Medical Center,14.69890385,121.06719218653689
+771,For Validation,70,F,For Validation,Metropolitan Medical Center,TBA,Admitted,TBA,,Metropolitan Medical Center,14.609395,120.9784765
+772,For Validation,60,M,For Validation,Manila Doctors Hospital,TBA,Admitted,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+773,For Validation,67,F,For Validation,Manila Doctors Hospital,TBA,Admitted,TBA,,Manila Doctors Hospital,14.58219355,120.98289979408534
+774,For Validation,65,M,Filipino,Region II Trauma and Medical Center,TBA,Admitted,TBA,,Region II Trauma Medical Center,16.4829887,121.13419633203547
+775,For Validation,38,F,For Validation,Philippine Heart Center,TBA,Admitted,TBA,,Philippine Heart Center,14.64403855,121.04842725955206
+777,For Validation,59,F,For Validation,Western Visayas Medical Center,TBA,Admitted,TBA,,Western Visayas Medical Center,10.71881145,122.54178735438887
+778,For Validation,37,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+779,For Validation,60,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+780,For Validation,37,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+781,For Validation,69,F,For Validation,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+782,For Validation,48,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+783,For Validation,69,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,,Cardinal Santos Medical Center,14.597435,121.04599574684656
+784,For Validation,29,F,For Validation,Veterans Memorial Medical Center,TBA,Admitted,TBA,,Veterans Memorial Medical Center,14.656373349999999,121.03981246339595
+785,For Validation,65,F,For Validation,City of General Trias Doctors Medical Center,TBA,Admitted,TBA,,City of General Trias Doctors Medical Center,14.2912185,120.90387619553523
+786,For Validation,62,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+787,For Validation,54,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+788,For Validation,75,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,,Asian Hospital Medical Center (Muntinlupa),14.41318165,121.04355553786556
+789,For Validation,76,F,For Validation,Quezon City General Hospital,TBA,Admitted,TBA,,Quezon City General Hospital,14.66110335,121.01815013408611
+790,For Validation,43,F,For Validation,East Avenue Medical Center,TBA,Admitted,TBA,,East Avenue Medical Center,14.6419083,121.04793075343855
+791,For Validation,55,M,For Validation,East Avenue Medical Center,TBA,Admitted,TBA,,East Avenue Medical Center,14.6419083,121.04793075343855
+792,For Validation,67,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+793,For Validation,67,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,,Makati Medical Center,14.5593106,121.01480235528001
+794,For Validation,69,M,For Validation,Quezon City General Hospital,TBA,Admitted,TBA,,Quezon City General Hospital,14.66110335,121.01815013408611
+795,For Validation,60,F,For Validation,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+796,For Validation,37,F,For Validation,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+797,For Validation,25,F,For Validation,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+798,For Validation,74,M,For Validation,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+799,For Validation,32,M,For Validation,Rizal Medical Center,TBA,Admitted,TBA,,Rizal Medical Center,14.563910700000001,121.06612846687781
+800,For Validation,40,M,For Validation,Adventist Medical Center,TBA,Admitted,TBA,,Adventist Medical Center Manila,14.55602185,120.9953013915066
+801,For Validation,23,M,Filipino,Southern Isabela Medical Center,TBA,Admitted,TBA,,Southern Isabela General Hospital,16.680094,121.54669799009702
+802,For Validation,40,M,For Validation,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,,University of the East Ramon Magsaysay Memorial Medical Center,14.6066064,121.02067860955255
+803,For Validation,28,M,For Validation,Dr. Pablo O. Torre Memorial Hospital,TBA,Admitted,TBA,,Riverside Hospital Bacolod,10.68310545,122.95768201600865
+837,For Validation,52,F,Filipino,Cagayan Valley Medical Center,TBA,Admitted,TBA,,Cagayan Valley Medical Center,17.6562367,121.74813210188074
+838,For Validation,25,F,Filipino,Cagayan Valley Medical Center,TBA,Admitted,TBA,,Cagayan Valley Medical Center,17.6562367,121.74813210188074
+866,For Validation,46,M,For Validation,Chinese General Hospital and Medical Center,TBA,Admitted,TBA,,Chinese General Hospital Medical Center,14.6263106,120.98779066908772
+935,For Validation,83,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,,St. Luke's Medical Center - Global City,14.555140900000001,121.04813809093798
+988,For Validation,77,M,Filipino,New Era General Hospital,TBA,Admitted,TBA,,New Era General Hospital,14.66416375,121.06671201971747

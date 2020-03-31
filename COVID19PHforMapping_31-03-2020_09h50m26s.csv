@@ -1,0 +1,1547 @@
+case_no,date,age,gender,nationality,hospital_admitted_to,had_recent_travel_history_abroad,status,other_information,resident_of
+1,2020-01-30,38,F,Chinese,San Lazaro Hospital,Yes,Recovered,First case of COVID-19 in PH,
+2,2020-01-30,44,M,Chinese,San Lazaro Hospital,Yes,Died,First COVID-19-related death in PH; first outside mainland China,
+3,2020-01-30,60,F,Chinese,ACE Medical Center - Bohol,Yes,Recovered,Left the Philippines to China before was reported positive,
+4,2020-03-05,48,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,Yes,Recovered,First case involving a Filipino in the Philippines; employee of Deloitte PH in BGC,
+5,2020-03-05,62,M,Filipino,Research Institute for Tropical Medicine (Muntinlupa),No,Died,Resident of Cainta; frequented Greenhills Mall and a prayer room in San Juan,
+6,2020-03-06,59,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),No,Died,Resident of Cainta,
+7,2020-03-08,38,M,Taiwanese,Research Institute for Tropical Medicine (Muntinlupa),No,Recovered,Has contact with a Taiwanese national who tested positive in Taiwan after visit from PH,
+8,2020-03-08,32,M,Filipino,St. Luke's Medical Center - Global City,Yes,Admitted,-,
+9,2020-03-08,86,M,American,The Medical City - Ortigas,Yes,Died,dual citizen (Fil-Am) according to Mayor Marcy Teodoro,
+10,2020-03-08,57,M,Filipino,San Lazaro Hospital,Yes,Recovered,"Case reported that a relative from China (with layover in HK and Taiwan) stayed in his residence for 1 week on January 26. During his hospital stay in SLMC-QC, relatives from China, US, and Davao visited him (At SLMC-QC March 1 to present)",
+11,2020-03-09,72,M,Filipino,The Medical City - Ortigas,No,Recovered,-,
+12,2020-03-09,56,M,Filipino,Makati Medical Center,Yes,Died,-,
+13,2020-03-09,34,M,Filipino,Makati Medical Center,Yes,Recovered,-,
+14,2020-03-09,46,M,Filipino,Makati Medical Center,No,Recovered,-,
+15,2020-03-09,24,M,Filipino,Makati Medical Center,Yes,Recovered,-,
+16,2020-03-09,70,M,Filipino,Research Institute for Tropical Medicine (Muntinlupa),Yes,Recovered,"Went to a prayer area in Greenhills and Baclaran, plausible link with Case #5; currently asymptomatic",
+17,2020-03-09,69,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),Yes,Recovered,"Went to a prayer area in Greenhills and Baclaran, plausible link with Case #5; currently asymptomatic",
+18,2020-03-09,41,M,Filipino,San Lazaro Hospital,Yes,Recovered,currently asymptomatic,
+19,2020-03-09,46,F,Filipino,San Lazaro Hospital,No,Recovered,-,
+20,2020-03-09,48,M,Filipino,Research Institute for Tropical Medicine (Muntinlupa),Yes,Recovered,Resident of Imus,
+21,2020-03-09,58,F,Filipino,Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium,No,Admitted,San Jose del Monte,
+22,2020-03-09,51,F,Filipino,Quirino Memorial Medical Center,No,Recovered,currently asymptomatic,
+23,2020-03-09,30,F,Filipino,Cardinal Santos Medical Center,No,Recovered,currently asymptomatic,
+24,2020-03-09,52,M,Filipino,St. Luke's Medical Center - Quezon City,Yes,Admitted,-,
+25,2020-03-10,31,M,Filipino,Jose B. Lingad Memorial Regional Hospital,Yes,Recovered,repatriate from the Diamond Princess cruise ship; quarantined in New Clark City,
+26,2020-03-10,34,M,Filipino,Jose B. Lingad Memorial Regional Hospital,Yes,Recovered,repatriate from the Diamond Princess cruise ship; quarantined in New Clark City,
+27,2020-03-10,42,F,Filipino,The Medical City - Ortigas,No,Admitted,Had contact with Case #9; in the same house as Case #9; currently asymptomatic,
+28,2020-03-10,69,M,Filipino,The Medical City - Ortigas,No,Recovered,Had contact with Case #9; in the same house as Case #9,
+29,2020-03-10,82,M,Filipino,The Medical City - Ortigas,No,Died,Had contact with Case #9; in the same house as Case #9,
+30,2020-03-10,69,F,Filipino,The Medical City - Ortigas,No,Admitted,Had contact with Case #9; in the same house as Case #9; currently asymptomatic,
+31,2020-03-10,28,F,Filipino,The Medical City - Ortigas,No,Recovered,-,
+32,2020-03-10,64,M,Filipino,The Medical City - Ortigas,No,Admitted,-,
+33,2020-03-10,60,M,Filipino,Rizal Medical Center,Yes,Admitted,currently asymptomatic,
+34,2020-03-11,72,M,Filipino,Manila Doctors Hospital,No,Admitted,-,
+35,2020-03-11,67,F,Filipino,Manila Doctors Hospital,No,Died,First death of a Filipino national due to the virus,
+36,2020-03-11,53,M,Filipino,Las Piñas General Hospital,No,Admitted,-,
+37,2020-03-11,88,F,Filipino,Philippine Heart Center,No,Died,-,
+38,2020-03-11,29,M,Filipino,Cardinal Santos Medical Center,No,Admitted,currently asymptomatic,
+39,2020-03-11,64,M,Filipino,"ACE Dumaguete Doctors, Inc.",No,Died,First public official to be infected; went to Greenhills before going home,
+40,2020-03-11,54,M,Filipino,Northern Mindanao Medical Center,No,Died,Resident of Pasig City since 2017 but went home to permanent residence at Lanao del Sur,
+41,2020-03-11,75,F,Filipino,Makati Medical Center,Yes,Recovered,-,
+42,2020-03-11,51,M,Filipino,The Medical City - Ortigas,Yes,Recovered,currently asymptomatic,
+43,2020-03-11,47,M,Filipino,Lung Center of the Philippines,No,Admitted,Wife of Case #43 is sister of Case #12; currently asymptomatic,
+44,2020-03-11,70,F,Filipino,Makati Medical Center,No,Admitted,currently asymptomatic,
+45,2020-03-11,27,M,Filipino,Makati Medical Center,No,Admitted,Had a contact with a known COVID-19 case; doctor at an undisclosed hospital,
+46,2020-03-11,66,F,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,-,
+47,2020-03-11,53,M,Filipino,St. Luke's Medical Center - Quezon City,Yes,Admitted,-,
+48,2020-03-11,57,M,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,Had contact with a known COVID-19 case,
+49,2020-03-11,72,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),No,Recovered,-,
+50,2020-03-11,69,F,Filipino,The Medical City - Ortigas,No,Admitted,-,
+51,2020-03-11,26,M,Filipino,Makati Medical Center,No,Recovered,-,
+52,2020-03-11,79,F,Filipino,Asian Hospital and Medical Center (Muntinlupa),Yes,Died,-,
+53,2020-03-12,30,M,Filipino,San Lazaro Hospital,Yes,Admitted,-,
+54,2020-03-12,40,M,Filipino,San Lazaro Hospital,No,Died,-,
+55,2020-03-13,59,F,Filipino,Cardinal Santos Medical Center,No,Admitted,-,
+56,2020-03-13,41,M,Filipino,St. Luke's Medical Center - Global City,No,Admitted,currently asymptomatic,
+57,2020-03-13,65,M,Filipino,Lung Center of the Philippines,Yes,Died,-,
+58,2020-03-13,45,F,Filipino,The Medical City - Ortigas,No,Admitted,Had contact with a known COVID-19 case; currently asymptomatic,
+59,2020-03-13,27,M,Filipino,Makati Medical Center,No,Admitted,Had contact with a known COVID-19 case,
+60,2020-03-13,49,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,-,
+61,2020-03-13,70,F,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,No,Admitted,-,
+62,2020-03-13,35,F,Filipino,(For Validation at DOH Epidemiology Bureau),No,Recovered,-,
+63,2020-03-13,33,M,Filipino,Marikina Valley Medical Center,No,Admitted,Porac,
+64,2020-03-13,32,M,Filipino,St. Joseph Hospital and Medical Center,No,Admitted,"Permanent resident of Orani, Bataan; lives in a boarding house in Sampaloc, Manila",
+65,2020-03-13,70,M,Filipino,Veterans Memorial Medical Center,No,Admitted,currently asymptomatic,
+66,2020-03-13,25,M,Filipino,DOH Epidemiology Bureau,No,Recovered,TBA,
+67,2020-03-13,23,F,Filipino,Sta. Ana Hospital,No,Admitted,TBA,
+68,2020-03-13,32,M,Filipino,The Medical City - Ortigas,No,Admitted,Had contact with a known COVID-19 case; currently asymptomatic,
+69,2020-03-13,28,F,Filipino,The Medical City - Ortigas,No,Admitted,Had contact with a known COVID-19 case; currently asymptomatic,
+70,2020-03-13,35,M,Filipino,Quezon Medical Center,Yes,Admitted,Lucena City,
+71,2020-03-13,59,M,Filipino,San Lazaro Hospital,No,Admitted,TBA,
+72,2020-03-13,41,M,Filipino,The Medical City - Ortigas,Yes,Admitted,Santa Rosa,
+73,2020-03-13,54,M,Filipino,Our Lady of Lourdes Hospital,Yes,Recovered,TBA,
+74,2020-03-13,49,M,Filipino,East Avenue Medical Center,No,Admitted,TBA,
+75,2020-03-13,64,M,Filipino,Rizal Medical Center,No,Admitted,Had contact with a known COVID-19 case,
+76,2020-03-13,59,M,Filipino,The Medical City - Ortigas,No,Admitted,TBA,
+77,2020-03-13,60,M,Filipino,Fatima University Medical Center,No,Admitted,First resident from Antipolo to be infected,
+78,2020-03-13,63,F,For Validation,Chinese General Hospital and Medical Center,No,Admitted,currently asymptomatic,
+79,2020-03-13,68,M,Filipino,Manila Doctors Hospital,No,Died,TBA,
+80,2020-03-14,52,M,Filipino,University of Santo Tomas Hospital,No,Admitted,TBA,
+81,2020-03-14,25,F,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,TBA,
+82,2020-03-14,66,M,Filipino,University of Santo Tomas Hospital,No,Recovered,TBA,
+83,2020-03-13,46,M,Filipino,(For Validation at DOH Epidemiology Bureau),No,Admitted,Had contact with a known COVID-19 case,
+84,2020-03-13,38,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),No,Admitted,currently asymptomatic,
+85,2020-03-13,38,M,Filipino,(For Validation at DOH Epidemiology Bureau),Yes,Admitted,currently asymptomatic,
+86,2020-03-13,48,M,Filipino,Research Institute for Tropical Medicine (Muntinlupa),No,Admitted,currently asymptomatic,
+87,2020-03-14,76,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),No,Recovered,TBA,
+88,2020-03-14,33,M,Filipino,Quirino Memorial Medical Center,No,Recovered,currently asymptomatic,
+89,2020-03-13,67,M,Filipino,Our Lady of Mt. Carmel Medical Center,No,Died,San Fernando,
+90,2020-03-13,66,F,Filipino,The Medical City - Ortigas,No,Admitted,Had contact with a known COVID-19 case; currently asymptomatic,
+91,2020-03-13,27,F,Filipino,The Medical City - Ortigas,No,Admitted,Had contact with a known COVID-19 case,
+92,2020-03-13,69,M,Filipino,St. Luke's Medical Center - Global City,No,Admitted,currently asymptomatic,
+93,2020-03-13,47,M,Filipino,Jose B. Lingad Memorial Regional Hospital,No,Admitted,Had contact with a known COVID-19 case,
+94,2020-03-13,49,M,Filipino,Qualimed - Sta. Rosa Hospital,TBA,Admitted,currently asymptomatic,
+95,2020-03-14,64,F,Filipino,San Lazaro Hospital,No,Recovered,TBA,
+96,2020-03-14,39,M,Filipino,Ilocos Training and Regional Medical Center,Yes,Admitted,"Probable resident of Manabo. Also went to Sallapadan, Bucloc, and Licuan-Baay.",
+97,2020-03-14,69,M,Filipino,San Lazaro Hospital,No,Admitted,TBA,
+98,2020-03-14,50,M,Filipino,Cardinal Santos Medical Center,No,Admitted,currently asymptomatic,
+99,2020-03-16,33,M,Filipino,Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium,No,Admitted,San Jose del Monte,
+100,2020-03-15,30,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,No,Admitted,currently asymptomatic,
+101,2020-03-16,55,M,Filipino,St. Luke's Medical Center - Global City,No,Admitted,TBA,
+102,2020-03-16,55,M,Filipino,Makati Medical Center,No,Admitted,TBA,
+103,2020-03-16,31,M,Filipino,Lung Center of the Philippines,No,Admitted,Had contact with a known COVID-19 case; currently asymptomatic,
+104,2020-03-16,62,M,Filipino,Lung Center of the Philippines,No,Admitted,TBA,
+105,2020-03-16,38,M,Filipino,The Medical City - Ortigas,TBA,Admitted,currently asymptomatic,
+106,2020-03-15,75,F,Filipino,The Medical City - Ortigas,No,Admitted,currently asymptomatic,
+107,2020-03-16,57,F,Filipino,Philippine Heart Center,No,Admitted,TBA,
+108,2020-03-14,38,M,Filipino,St. Luke's Medical Center - Global City,Yes,Admitted,currently asymptomatic,
+109,2020-03-15,44,M,Filipino,St. Luke's Medical Center - Global City,No,Recovered,TBA,
+110,2020-03-16,27,F,Thai,St. Luke's Medical Center - Global City,No,Admitted,TBA,
+111,For Validation,44,M,Filipino,St. Luke's Medical Center - Global City,No,Admitted,TBA,
+112,2020-03-14,41,M,Filipino,St. Luke's Medical Center - Global City,No,Recovered,TBA,
+113,2020-03-14,31,F,Filipino,St. Luke's Medical Center - Global City,Yes,Admitted,Had contact with a known COVID-19 case,
+114,2020-03-14,35,M,Filipino,St. Luke's Medical Center - Global City,Yes,Recovered,TBA,
+115,2020-03-15,66,M,Thai,St. Luke's Medical Center - Quezon City,Yes,Admitted,TBA,
+116,2020-03-15,70,F,Filipino,St. Luke's Medical Center - Quezon City,Yes,Admitted,TBA,
+117,2020-03-15,68,M,Filipino,St. Luke's Medical Center - Quezon City,Yes,Admitted,Guiguinto,
+118,2020-03-15,60,M,Filipino,San Lazaro Hospital,No,Admitted,TBA,
+119,2020-03-15,58,M,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,currently asymptomatic,
+120,2020-03-15,29,F,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,Had contact with a known COVID-19 case,
+121,2020-03-15,37,M,Filipino,St. Luke's Medical Center - Quezon City,Yes,Admitted,TBA,
+122,2020-03-15,41,M,Filipino,"Metro North Medical Center and Hospital, Inc.",No,Recovered,TBA,
+123,2020-03-15,55,M,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,TBA,
+124,2020-03-15,65,M,Filipino,Lung Center of the Philippines,Yes,Died,TBA,
+125,2020-03-15,36,M,Filipino,Chinese General Hospital and Medical Center,Yes,Admitted,currently asymptomatic,
+126,2020-03-15,76,M,Filipino,Adventist Medical Center,No,Died,TBA,
+127,2020-03-15,24,F,Filipino,San Lazaro Hospital,Yes,Admitted,TBA,
+128,2020-03-15,25,F,Filipino,Marikina Valley Medical Center,Yes,Admitted,currently asymptomatic,
+129,2020-03-15,67,M,Filipino,Diliman Doctors Hospital,No,Died,TBA,
+130,2020-03-15,21,F,Filipino,Davao Regional Medical Center,Yes,Recovered,currently asymptomatic,
+131,2020-03-15,29,F,Filipino,Our Lady of Lourdes Hospital,Yes,Admitted,Had contact with a known COVID-19 case,
+132,2020-03-15,69,M,Filipino,Makati Medical Center,No,Admitted,TBA,
+133,2020-03-15,27,M,Filipino,Quirino Memorial Medical Center,No,Admitted,currently asymptomatic,
+134,2020-03-15,47,F,Filipino,Quirino Memorial Medical Center,No,Admitted,TBA,
+135,2020-03-15,13,F,Filipino,Quirino Memorial Medical Center,No,Recovered,TBA,
+136,2020-03-15,47,M,Filipino,The Medical City - Ortigas,No,Admitted,TBA,
+137,2020-03-15,27,F,Filipino,The Medical City - Ortigas,No,Admitted,currently asymptomatic,
+138,2020-03-15,58,M,Filipino,San Lazaro Hospital,No,Admitted,currently asymptomatic,
+139,2020-03-15,44,F,Filipino,(For Validation at DOH Epidemiology Bureau),No,Admitted,TBA,
+140,2020-03-15,47,F,Filipino,Asian Hospital and Medical Center (Muntinlupa),No,Admitted,currently asymptomatic,
+141,2020-03-16,63,M,Filipino,The Medical City - Ortigas,No,Admitted,currently asymptomatic,
+142,2020-03-16,50,M,Filipino,DOH Epidemiology Bureau,TBA,Admitted,currently asymptomatic,
+143,2020-03-16,73,M,Filipino,Cardinal Santos Medical Center,No,Recovered,currently asymptomatic,
+144,2020-03-16,74,F,Filipino,Cardinal Santos Medical Center,No,Admitted,TBA,
+145,2020-03-16,32,M,Filipino,Cotabato Regional and Medical Center,Yes,Admitted,Resident of Cotabato City,
+146,2020-03-16,52,M,Filipino,Cardinal Santos Medical Center,Yes,Admitted,currently asymptomatic,
+147,2020-03-16,70,F,Filipino,Cardinal Santos Medical Center,No,Admitted,TBA,
+148,2020-03-16,54,M,Filipino,Cardinal Santos Medical Center,No,Admitted,currently asymptomatic,
+149,2020-03-16,61,F,Filipino,Manila Doctors Hospital,No,Admitted,currently asymptomatic,
+150,2020-03-16,57,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,
+151,2020-03-16,78,F,Filipino,St. Luke's Medical Center - Global City,No,Admitted,TBA,
+152,2020-03-16,40,M,Filipino,St. Luke's Medical Center - Global City,No,Admitted,TBA,
+153,2020-03-16,34,F,Filipino,St. Luke's Medical Center - Global City,No,Admitted,TBA,
+154,2020-03-16,27,F,Filipino,(For Validation at DOH Epidemiology Bureau),No,Admitted,TBA,
+155,2020-03-16,48,M,Filipino,Research Institute for Tropical Medicine (Muntinlupa),No,Admitted,TBA,
+156,2020-03-16,57,F,Filipino,(For Validation at DOH Epidemiology Bureau),No,Admitted,TBA,
+157,2020-03-16,66,F,Filipino,Las Piñas General Hospital,No,Admitted,TBA,
+158,2020-03-16,48,M,Filipino,Las Piñas General Hospital,No,Admitted,TBA,
+159,2020-03-16,50,M,For Validation,Victor R. Potenciano Medical Center,TBA,Admitted,TBA,
+160,2020-03-16,86,F,Filipino,Cardinal Santos Medical Center,No,Died,TBA,
+161,2020-03-16,38,M,Filipino,Manila Doctors Hospital,No,Admitted,currently asymptomatic,
+162,2020-03-16,71,M,Filipino,San Lazaro Hospital,No,Admitted,TBA,
+163,2020-03-16,55,M,Filipino,Diliman Doctors Hospital,No,Recovered,TBA,
+164,2020-03-16,28,F,Filipino,Rizal Medical Center,No,Admitted,TBA,
+165,2020-03-16,50,F,Filipino,Sta. Ana Hospital,No,Admitted,TBA,
+166,2020-03-16,53,M,Filipino,Sta. Ana Hospital,No,Admitted,TBA,
+167,2020-03-17,48,F,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,TBA,
+168,2020-03-17,35,F,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,TBA,
+169,2020-03-16,60,M,Filipino,DOH Epidemiology Bureau,No,Admitted,TBA,
+170,2020-03-16,22,M,Filipino,(For Validation at DOH Epidemiology Bureau),No,Admitted,TBA,
+171,2020-03-17,55,M,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,
+172,2020-03-17,69,M,Filipino,St. Luke's Medical Center - Quezon City,No,Admitted,currently asymptomatic,
+173,2020-03-17,28,M,Filipino,Rizal Medical Center,No,Admitted,TBA,
+174,2020-03-16,39,F,Indian,Victor R. Potenciano Medical Center,Yes,Admitted,TBA,
+175,2020-03-17,35,M,Filipino,(For Validation at DOH Epidemiology Bureau),No,Admitted,TBA,
+176,2020-03-16,55,F,Filipino,(For Validation at DOH Epidemiology Bureau),No,Admitted,TBA,
+177,2020-03-16,70,M,Filipino,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,
+178,2020-03-16,74,M,Filipino,Medical Center Manila,No,Died,TBA,
+179,2020-03-16,59,M,Filipino,St. Luke's Medical Center - Global City,No,Admitted,TBA,
+180,2020-03-16,52,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+181,2020-03-16,39,M,For Validation,Metropolitan Medical Center,Yes,Admitted,TBA,
+182,2020-03-16,74,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),Yes,Admitted,TBA,
+183,2020-03-16,82,F,Filipino,Asian Hospital and Medical Center (Muntinlupa),No,Admitted,TBA,
+184,2020-03-16,28,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+185,2020-03-16,48,M,Filipino,The Medical City - Ortigas,No,Admitted,currently asymptomatic,
+186,2020-03-16,28,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+187,2020-03-16,28,F,Filipino,(For Validation at DOH Epidemiology Bureau),No,Admitted,Had contact with a known COVID-19 case,
+188,2020-03-16,65,M,Filipino,Chong Hua Hospital,TBA,Admitted,TBA,
+189,2020-03-16,49,M,Filipino,Mandaluyong City Medical Center,No,Admitted,TBA,
+190,2020-03-16,37,F,Filipino,Cardinal Santos Medical Center,No,Admitted,TBA,
+191,2020-03-16,86,F,Filipino,CDJ Hospital,TBA,Admitted,TBA,
+192,2020-03-16,75,M,Filipino,San Juan Medical Center,Yes,Admitted,TBA,
+193,2020-03-16,41,F,For Validation,San Juan Medical Center,TBA,Admitted,TBA,
+194,2020-03-16,42,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),Yes,Admitted,TBA,
+195,2020-03-18,56,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,No,Admitted,TBA,
+196,2020-03-18,35,M,Filipino,(For Validation at DOH Epidemiology Bureau),No,Admitted,TBA,
+197,2020-03-18,77,M,Filipino,The Medical City - Ortigas,No,Admitted,TBA,
+198,2020-03-18,65,F,Filipino,The Medical City - Ortigas,No,Admitted,TBA,
+199,2020-03-18,69,F,Filipino,The Medical City - Ortigas,Yes,Admitted,TBA,
+200,2020-03-18,34,M,Filipino,Philippine Heart Center,No,Died,TBA,
+201,2020-03-18,58,M,Filipino,Amai Pakpak Medical Center,Yes,Died,Plausible link with the cluster of cases in a mosque in Malaysia,
+202,2020-03-18,43,M,Filipino,Divine Grace Medical Center,No,Admitted,TBA,
+203,2020-03-18,60,F,Filipino,The Medical City - Ortigas,No,Admitted,TBA,
+204,2020-03-18,32,F,Filipino,Manila Doctors Hospital,No,Recovered,TBA,
+205,2020-03-18,73,M,Filipino,The Medical City - Ortigas,No,Died,Died before tests returned positive,
+206,For Validation,25,M,Filipino,The Medical City - Ortigas,No,Admitted,TBA,
+207,For Validation,36,M,Filipino,The Medical City - Ortigas,No,Admitted,TBA,
+208,2020-03-18,69,M,Filipino,Philippine Heart Center,TBA,Admitted,TBA,
+209,2020-03-18,74,M,Filipino,Chinese General Hospital and Medical Center,No,Admitted,TBA,
+210,For Validation,81,M,Filipino,Chinese General Hospital and Medical Center,No,Died,TBA,
+211,2020-03-18,34,M,Filipino,Chinese General Hospital and Medical Center,No,Admitted,TBA,
+212,2020-03-18,21,M,Filipino,Chinese General Hospital and Medical Center,No,Admitted,TBA,
+213,2020-03-18,46,M,Filipino,Chinese General Hospital and Medical Center,No,Admitted,TBA,
+214,2020-03-18,44,M,Indian,Capitol Medical Center,Yes,Admitted,TBA,
+215,2020-03-18,71,M,Filipino,Philippine Heart Center,No,Died,TBA,
+216,2020-03-18,44,M,Filipino,Cardinal Santos Medical Center,No,Admitted,TBA,
+217,2020-03-18,54,M,Filipino,Cardinal Santos Medical Center,No,Admitted,TBA,
+218,For Validation,30,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+219,2020-03-20,72,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+220,2020-03-20,67,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+221,2020-03-20,33,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+222,2020-03-20,54,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+223,2020-03-20,25,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+224,2020-03-20,51,M,Filipino,DOH Epidemiology Bureau,TBA,Admitted,TBA,
+225,2020-03-20,33,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,
+226,2020-03-20,69,M,Filipino,De Los Santos Medical Center,TBA,Admitted,TBA,
+227,2020-03-20,55,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Died,TBA,
+228,2020-03-20,36,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+229,2020-03-20,57,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+230,2020-03-20,48,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,
+231,2020-03-20,47,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,
+232,2020-03-20,63,F,For Validation,San Juan Medical Center,TBA,Admitted,TBA,
+233,2020-03-19,26,F,Filipino,San Juan Medical Center,TBA,Admitted,TBA,
+234,2020-03-20,35,F,Filipino,Fe Del Mundo Medical Center,TBA,Admitted,TBA,
+235,2020-03-20,30,M,Filipino,Victor R. Potenciano Medical Center,No,Recovered,TBA,
+236,2020-03-20,54,F,Filipino,De Los Santos Medical Center,TBA,Admitted,TBA,
+237,2020-03-20,50,M,For Validation,De Los Santos Medical Center,TBA,Admitted,TBA,
+238,2020-03-20,47,F,Filipino,San Pedro Calungsod Medical Center,TBA,Admitted,TBA,
+239,2020-03-20,76,M,Filipino,Binakayan Hospital and Medical Center,TBA,Died,TBA,
+240,2020-03-20,35,M,Filipino,Daniel O. Mercado Medical Center,TBA,Admitted,TBA,
+241,2020-03-20,29,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+242,2020-03-20,37,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+243,2020-03-20,60,F,For Validation,National Kidney and Transplant Institute,TBA,Admitted,TBA,
+244,2020-03-20,41,F,Filipino,La Union Medical Center,TBA,Admitted,TBA,
+245,2020-03-20,44,M,Filipino,La Union Medical Center,TBA,Admitted,TBA,
+246,2020-03-20,37,M,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,
+247,2020-03-20,59,F,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,
+248,2020-03-20,55,F,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,
+249,2020-03-20,33,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+250,2020-03-20,22,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+251,2020-03-20,29,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+252,2020-03-20,60,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+253,2020-03-20,32,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+254,2020-03-20,33,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+255,2020-03-20,46,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+256,2020-03-20,66,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+257,2020-03-20,53,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+258,2020-03-20,68,F,American,The Medical City - Ortigas,TBA,Admitted,TBA,
+259,2020-03-20,70,M,Filipino,The Medical City - Ortigas,No,Admitted,TBA,
+260,2020-03-20,32,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+261,2020-03-20,31,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+262,2020-03-20,45,M,Filipino,Southern Philippines Medical Center,TBA,Admitted,TBA,
+263,2020-03-20,46,F,Filipino,Southern Philippines Medical Center,TBA,Admitted,TBA,
+264,2020-03-20,89,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+265,2020-03-20,82,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+266,2020-03-20,71,M,Filipino,Cardinal Santos Medical Center,No,Died,TBA,
+267,For Validation,56,M,For Validation,Dr. Pablo O. Torre Memorial Hospital,TBA,Admitted,TBA,
+268,2020-03-20,77,M,For Validation,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+269,For Validation,51,M,Filipino,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,
+270,2020-03-20,56,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+271,2020-03-20,60,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+272,2020-03-20,68,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+273,2020-03-20,26,M,Australian,Ospital Ng Palawan,TBA,Admitted,TBA,
+274,2020-03-20,66,M,Japanese,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+275,2020-03-20,44,M,Filipino,Divine Mercy Wellness Center,TBA,Admitted,TBA,
+276,2020-03-20,54,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+277,2020-03-20,72,F,Filipino,Cardinal Santos Medical Center,TBA,Died,TBA,
+278,2020-03-20,72,F,Filipino,Cardinal Santos Medical Center,No,Died,TBA,
+279,2020-03-20,73,M,Filipino,Cardinal Santos Medical Center,No,Died,TBA,
+280,2020-03-20,69,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+281,2020-03-20,57,M,Filipino,Cardinal Santos Medical Center,No,Died,TBA,
+282,2020-03-20,68,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+283,2020-03-20,47,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+284,2020-03-21,65,M,Filipino,The Medical City - Iloilo,TBA,Admitted,TBA,
+285,2020-03-21,43,M,For Validation,Dr. Paulino J. Garcia Memorial Research and Medical Hospital,TBA,Admitted,TBA,
+286,2020-03-21,45,M,For Validation,Dr. Paulino J. Garcia Memorial Research and Medical Hospital,TBA,Admitted,TBA,
+287,2020-03-21,56,F,Chinese,Chinese General Hospital and Medical Center,TBA,Admitted,TBA,
+288,2020-03-21,32,M,Filipino,Philippine Heart Center,TBA,Admitted,TBA,
+289,2020-03-21,53,F,For Validation,East Avenue Medical Center,TBA,Admitted,TBA,
+290,2020-03-21,47,F,For Validation,Pasig Doctors Medical Center,TBA,Admitted,TBA,
+291,2020-03-21,30,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+292,2020-03-21,55,F,For Validation,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,
+293,2020-03-21,43,F,For Validation,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,
+294,2020-03-21,27,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+295,2020-03-21,35,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+296,2020-03-21,37,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+297,2020-03-21,43,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+298,2020-03-21,22,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+299,2020-03-21,42,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+300,2020-03-21,23,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+301,2020-03-21,57,F,Filipino,San Lazaro Hospital,TBA,Admitted,TBA,
+302,2020-03-21,31,F,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+303,2020-03-21,24,M,Filipino,Bataan General Hospital and Medical Center,No,Admitted,Limay,
+304,2020-03-21,89,M,Filipino,Jose B. Lingad Memorial Regional Hospital,No,Died,Had contact with a known COVID-19 case,
+305,2020-03-21,63,F,For Validation,Manila Doctors Hospital,TBA,Admitted,TBA,
+306,2020-03-21,67,F,Filipino,Manila Doctors Hospital,TBA,Died,TBA,
+307,2020-03-21,62,F,Filipino,Rizal Medical Center,TBA,Admitted,TBA,
+308,2020-03-21,62,M,Filipino,Rizal Medical Center,TBA,Admitted,TBA,
+309,2020-03-21,35,M,For Validation,Rizal Medical Center,TBA,Admitted,TBA,
+310,2020-03-21,60,F,Filipino,San Lazaro Hospital,Yes,Died,TBA,
+311,2020-03-21,50,M,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,
+312,2020-03-21,48,M,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,
+313,2020-03-21,63,M,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,
+314,2020-03-21,46,M,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,
+315,2020-03-21,37,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+316,2020-03-21,40,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+317,2020-03-21,75,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+318,2020-03-21,62,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+319,2020-03-21,56,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Died,TBA,
+320,2020-03-21,51,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+321,2020-03-21,46,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Died,TBA,
+322,2020-03-21,59,M,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+323,2020-03-21,25,F,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+324,2020-03-21,26,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+325,2020-03-21,52,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+326,2020-03-21,57,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Died,TBA,
+327,2020-03-21,46,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Died,TBA,
+328,2020-03-21,74,M,Filipino,St. Luke's Medical Center - Quezon City,No,Died,TBA,
+329,2020-03-21,23,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+330,2020-03-21,50,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+331,2020-03-21,27,F,Filipino,St. Luke's Medical Center - Quezon City,Yes,Admitted,TBA,
+332,2020-03-21,54,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+333,2020-03-21,65,M,Filipino,St. Luke's Medical Center - Quezon City,No,Died,TBA,
+334,2020-03-21,67,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+335,2020-03-21,23,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+336,2020-03-21,51,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+337,2020-03-21,54,M,Filipino,Makati Medical Center,TBA,Admitted,TBA,
+338,2020-03-21,42,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+339,For Validation,44,M,Filipino,Makati Medical Center,TBA,Admitted,TBA,
+340,2020-03-21,52,M,Filipino,Makati Medical Center,TBA,Admitted,TBA,
+341,2020-03-21,26,F,Filipino,Makati Medical Center,TBA,Admitted,TBA,
+342,2020-03-21,29,F,Filipino,Makati Medical Center,TBA,Admitted,TBA,
+343,For Validation,29,M,Filipino,Makati Medical Center,TBA,Admitted,TBA,
+344,For Validation,57,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+345,For Validation,67,M,Filipino,Makati Medical Center,TBA,Admitted,TBA,
+346,For Validation,64,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+347,For Validation,66,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+348,For Validation,49,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+349,2020-03-21,56,M,Filipino,Makati Medical Center,No,Died,TBA,
+350,For Validation,67,M,Filipino,Veterans Memorial Medical Center,TBA,Admitted,TBA,
+351,For Validation,56,M,Filipino,Cardinal Santos Medical Center,TBA,Died,TBA,
+352,2020-03-20,58,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+353,2020-03-20,31,F,For Validation,Rosario Maclang Bautista General Hospital,TBA,Admitted,TBA,
+354,2020-03-20,80,F,Filipino,Angono Medics Hospital,TBA,Died,TBA,
+355,2020-03-20,32,M,Filipino,De La Salle University Medical Center,TBA,Admitted,TBA,
+356,2020-03-21,71,F,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+357,2020-03-21,33,M,Filipino,Sinai Hospital,TBA,Admitted,TBA,
+358,2020-03-21,35,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Recovered,TBA,
+359,2020-03-21,21,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+360,2020-03-21,39,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+361,2020-03-21,30,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+362,2020-03-21,45,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+363,2020-03-21,63,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+364,2020-03-21,49,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+365,2020-03-21,48,F,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+366,2020-03-21,63,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),No,Died,TBA,
+367,2020-03-21,78,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Died,TBA,
+368,2020-03-20,67,F,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+369,2020-03-20,53,F,Filipino,Fe Del Mundo Medical Center,TBA,Admitted,TBA,
+370,2020-03-20,68,F,For Validation,Olivarez General Hospital,TBA,Admitted,TBA,
+371,2020-03-20,67,F,For Validation,Rizal Medical Center,TBA,Admitted,TBA,
+372,2020-03-21,20,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+373,2020-03-21,71,M,Filipino,World Citi Medical Center,TBA,Admitted,TBA,
+374,2020-03-21,35,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+375,2020-03-21,33,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+376,2020-03-21,61,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+377,2020-03-21,42,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+378,2020-03-21,31,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+379,2020-03-21,23,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+380,2020-03-17,43,F,Filipino,Research Institute for Tropical Medicine (Muntinlupa),TBA,Admitted,TBA,
+381,2020-03-22,62,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+382,2020-03-22,63,F,Filipino,East Avenue Medical Center,No,Died,TBA,
+383,2020-03-22,27,F,Filipino,East Avenue Medical Center,TBA,Admitted,TBA,
+384,2020-03-22,70,F,For Validation,Medical Center Parañaque,TBA,Admitted,TBA,
+385,2020-03-22,25,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+386,2020-03-22,56,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+387,2020-03-22,56,M,For Validation,Sacred Heart Hospital of Malolos,TBA,Admitted,TBA,
+388,2020-03-22,57,F,For Validation,Quezon City Health Department (Reporting Facility),TBA,Admitted,TBA,
+389,2020-03-22,75,F,Filipino,University of Santo Tomas Hospital,No,Died,TBA,
+390,2020-03-22,30,F,Filipino,Divine Grace Medical Center,TBA,Admitted,TBA,
+391,2020-03-22,80,F,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,No,Died,TBA,
+392,2020-03-22,20,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,
+393,2020-03-22,74,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,No,Died,TBA,
+394,2020-03-22,65,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,
+395,2020-03-22,69,M,For Validation,Quezon City General Hospital,TBA,Admitted,TBA,
+396,2020-03-22,25,M,Filipino,Lung Center of the Philippines,TBA,Admitted,TBA,
+397,2020-03-22,56,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+398,2020-03-22,29,M,For Validation,Metropolitan Medical Center,TBA,Admitted,TBA,
+399,2020-03-22,73,M,For Validation,Metropolitan Medical Center,TBA,Admitted,TBA,
+400,2020-03-22,49,M,For Validation,Metropolitan Medical Center,TBA,Admitted,TBA,
+401,2020-03-23,62,M,Filipino,Manila Doctors Hospital,No,Died,had contact with a known COVID-19 case,
+402,2020-03-23,61,F,Filipino,Manila Doctors Hospital,TBA,Admitted,TBA,
+403,2020-03-22,50,M,Filipino,Manila Doctors Hospital,TBA,Admitted,TBA,
+404,2020-03-22,73,M,Filipino,Manila Doctors Hospital,TBA,Admitted,TBA,
+405,2020-03-22,52,M,Filipino,Manila Doctors Hospital,TBA,Admitted,TBA,
+406,2020-03-22,26,M,Filipino,Manila Doctors Hospital,TBA,Admitted,TBA,
+407,2020-03-22,41,F,Filipino,Manila Doctors Hospital,TBA,Admitted,TBA,
+408,2020-03-22,62,M,Filipino,Philippine Heart Center,TBA,Admitted,TBA,
+409,2020-03-22,30,M,Filipino,Philippine Heart Center,TBA,Admitted,TBA,
+410,2020-03-22,54,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,
+411,2020-03-22,53,M,For Validation,Perpetual Succor Hospital,TBA,Admitted,TBA,
+412,For Validation,65,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,
+413,2020-03-22,31,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+414,For Validation,34,F,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,
+415,2020-03-22,78,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+416,2020-03-22,57,F,Filipino,Makati Medical Center,TBA,Admitted,TBA,
+417,2020-03-22,52,M,Filipino,Makati Medical Center,TBA,Admitted,TBA,
+418,2020-03-22,70,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+419,2020-03-22,33,F,Indonesian,Makati Medical Center,TBA,Admitted,TBA,
+420,2020-03-22,68,M,For Validation,Pasig City General Hospital,TBA,Admitted,TBA,
+421,2020-03-22,28,F,For Validation,National Center for Mental Health,TBA,Admitted,TBA,
+422,2020-03-22,64,F,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,
+423,2020-03-22,32,F,For Validation,Victor R. Potenciano Medical Center,TBA,Admitted,TBA,
+424,2020-03-22,53,M,Filipino,Victor R. Potenciano Medical Center,TBA,Admitted,TBA,
+425,2020-03-22,69,M,For Validation,Providence Hospital,TBA,Admitted,TBA,
+426,2020-03-22,57,M,For Validation,Providence Hospital,TBA,Admitted,TBA,
+427,2020-03-22,60,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+428,2020-03-22,24,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+429,2020-03-22,62,M,For Validation,Marikina City Health Office,TBA,Admitted,TBA,
+430,2020-03-22,19,M,For Validation,Marikina City Health Office,TBA,Admitted,TBA,
+431,2020-03-22,21,F,For Validation,Mandaluyong City Medical Center,TBA,Admitted,TBA,
+432,2020-03-22,56,F,For Validation,Veterans Memorial Medical Center,TBA,Admitted,TBA,
+433,2020-03-22,70,M,For Validation,Veterans Memorial Medical Center,TBA,Admitted,TBA,
+434,2020-03-22,47,M,For Validation,Veterans Memorial Medical Center,TBA,Admitted,TBA,
+435,2020-03-22,60,M,For Validation,Far Eastern University Nicanor Reyes Medical Foundation Medical Center,TBA,Admitted,TBA,
+436,2020-03-22,75,M,Filipino,University of Santo Tomas Hospital,TBA,Admitted,TBA,
+437,2020-03-22,57,M,Filipino,University of Santo Tomas Hospital,No,Died,TBA,
+438,2020-03-22,73,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+439,2020-03-22,44,F,Filipino,Medical Center Manila,TBA,Admitted,TBA,
+440,2020-03-22,53,M,Filipino,Medical Center Manila,TBA,Admitted,TBA,
+441,2020-03-22,61,F,Filipino,Baguio General Hospital and Medical Center,TBA,Admitted,TBA,
+442,2020-03-22,28,M,For Validation,Southern Philippines Medical Center,TBA,Admitted,TBA,
+443,2020-03-22,32,M,For Validation,Southern Philippines Medical Center,TBA,Admitted,TBA,
+444,2020-03-22,50,M,For Validation,Davao Regional Medical Center,TBA,Admitted,TBA,
+445,2020-03-22,50,M,For Validation,Victor R. Potenciano Medical Center,TBA,Admitted,TBA,
+446,2020-03-22,56,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+447,2020-03-22,49,M,Filipino,Fe Del Mundo Medical Center,TBA,Admitted,TBA,
+448,2020-03-22,70,M,Filipino,Veterans Memorial Medical Center,TBA,Admitted,TBA,
+449,2020-03-22,42,F,For Validation,San Lazaro Hospital,TBA,Admitted,TBA,
+450,2020-03-22,56,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+451,2020-03-22,70,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+452,2020-03-22,63,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+453,2020-03-22,71,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+454,2020-03-22,63,F,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+455,2020-03-22,45,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+456,2020-03-22,51,M,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+457,2020-03-22,37,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+458,2020-03-22,52,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+459,2020-03-22,63,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+460,2020-03-22,54,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+461,2020-03-22,64,M,Filipino,University of Santo Tomas Hospital,TBA,Admitted,TBA,
+462,2020-03-22,83,F,Filipino,University of Santo Tomas Hospital,No,Died,TBA,
+463,For Validation,63,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+464,For Validation,53,F,For Validation,Jose B. Lingad Memorial Regional Hospital,TBA,Admitted,TBA,
+465,For Validation,85,F,For Validation,ACE Medical Center - Pateros,TBA,Admitted,TBA,
+466,For Validation,53,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+467,For Validation,56,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+468,For Validation,44,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+469,For Validation,63,M,For Validation,Perpetual Health Medical Center - Biñan,TBA,Admitted,TBA,
+470,For Validation,55,M,Filipino,Perpetual Health Medical Center - Biñan,TBA,Admitted,TBA,
+471,For Validation,40,F,For Validation,The Medical City - South Luzon,TBA,Admitted,TBA,
+472,For Validation,58,F,Filipino,"Uni-Health Southwoods Hospital and Medical Center, Inc.",TBA,Admitted,TBA,
+473,For Validation,67,F,For Validation,City of General Trias Doctors Medical Center,TBA,Admitted,TBA,
+474,For Validation,63,F,Filipino,Cavite Medical Center,TBA,Admitted,TBA,
+475,For Validation,40,F,Filipino,Makati Health Department,TBA,Admitted,TBA,
+476,For Validation,64,M,Filipino,Makati Health Department,TBA,Admitted,TBA,
+477,For Validation,33,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+478,For Validation,55,F,Filipino,Makati Medical Center,TBA,Admitted,TBA,
+479,For Validation,48,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+480,For Validation,49,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+481,For Validation,54,M,Filipino,Medical Center Taguig,TBA,Admitted,TBA,
+482,For Validation,78,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+483,For Validation,75,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+484,For Validation,27,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+485,For Validation,39,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+486,For Validation,54,F,Filipino,Lucena United Doctors Hospital,TBA,Admitted,TBA,
+487,For Validation,26,M,Filipino,Quezon Medical Center,TBA,Admitted,TBA,
+488,For Validation,81,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+489,For Validation,51,F,Filipino,Eastern Visayas Regional Medical Center,TBA,Admitted,TBA,
+490,For Validation,56,F,Filipino,Amai Pakpak Medical Center,TBA,Admitted,TBA,
+491,For Validation,61,M,Filipino,Amai Pakpak Medical Center,TBA,Admitted,TBA,
+492,For Validation,47,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+493,For Validation,70,M,For Validation,Sta. Ana Hospital,TBA,Admitted,TBA,
+494,For Validation,66,M,For Validation,Sta. Ana Hospital,TBA,Admitted,TBA,
+495,For Validation,24,M,Filipino,Batangas Health Care Hospital - Jesus of Nazareth,TBA,Admitted,TBA,
+496,For Validation,53,M,For Validation,National Kidney and Transplant Institute,TBA,Admitted,TBA,
+497,For Validation,83,M,For Validation,Capitol Medical Center,TBA,Admitted,TBA,
+498,For Validation,72,F,For Validation,Capitol Medical Center,TBA,Admitted,TBA,
+499,For Validation,29,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+500,For Validation,54,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+501,For Validation,60,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+502,For Validation,56,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+503,For Validation,74,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+504,For Validation,61,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+505,For Validation,32,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+506,For Validation,45,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+507,For Validation,49,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+508,For Validation,74,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+509,For Validation,69,F,For Validation,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+510,For Validation,69,M,For Validation,Las Piñas City Health Office,TBA,Admitted,TBA,
+511,For Validation,35,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+512,For Validation,53,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+513,For Validation,68,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+514,For Validation,39,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+515,For Validation,71,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+516,For Validation,31,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+517,For Validation,66,M,For Validation,"Las Piñas Doctors Hospital, Inc.",TBA,Admitted,TBA,
+518,For Validation,24,M,For Validation,Las Piñas City Health Office,TBA,Admitted,TBA,
+519,For Validation,19,M,For Validation,Dr. Paulino J. Garcia Memorial Research and Medical Hospital,TBA,Admitted,TBA,
+520,For Validation,49,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+521,For Validation,73,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+522,2020-03-23,61,F,Filipino,The Medical City - Ortigas,No,Died,TBA,
+523,For Validation,32,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+524,For Validation,60,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+525,For Validation,79,F,Filipino,Ospital ng Makati,TBA,Admitted,TBA,
+526,For Validation,46,F,For Validation,Antipolo City Health Office,TBA,Admitted,TBA,
+527,For Validation,50,F,For Validation,Antipolo City Health Office,TBA,Admitted,TBA,
+528,For Validation,50,F,For Validation,Hospital of the Infant Jesus Medical Center,TBA,Admitted,TBA,
+529,For Validation,55,M,For Validation,Bataan General Hospital and Medical Center,TBA,Admitted,TBA,
+530,For Validation,49,M,Filipino,Victor R. Potenciano Medical Center,TBA,Admitted,TBA,
+531,For Validation,34,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+532,For Validation,31,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+533,For Validation,20,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+534,For Validation,20,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+535,For Validation,39,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+536,For Validation,37,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+537,For Validation,22,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+538,For Validation,63,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+539,For Validation,69,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+540,2020-03-24,50,M,Filipino,The Medical City - Ortigas,TBA,Died,TBA,
+541,For Validation,68,F,For Validation,The Medical City - Ortigas,TBA,Admitted,TBA,
+542,For Validation,38,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+543,For Validation,55,F,Filipino,University of Santo Tomas Hospital,TBA,Admitted,TBA,
+544,For Validation,58,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+545,For Validation,39,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+546,For Validation,31,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+547,For Validation,38,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+548,For Validation,47,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+549,For Validation,61,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+550,For Validation,63,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+551,For Validation,31,M,Filipino,Victor R. Potenciano Medical Center,TBA,Admitted,TBA,
+552,For Validation,69,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+553,For Validation,54,M,For Validation,Metropolitan Medical Center,TBA,Admitted,TBA,
+554,For Validation,46,M,For Validation,Medical Center Manila,TBA,Admitted,TBA,
+555,For Validation,51,F,For Validation,Victoriano Luna Medical Center,TBA,Admitted,TBA,
+556,For Validation,52,M,For Validation,Victoriano Luna Medical Center,TBA,Admitted,TBA,
+557,For Validation,36,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+558,For Validation,63,M,For Validation,Alabang Medical Clinic,TBA,Admitted,TBA,
+559,For Validation,54,F,For Validation,Las Piñas City Health Office,TBA,Admitted,TBA,
+560,For Validation,49,M,For Validation,Our Lady of Lourdes Hospital,TBA,Admitted,TBA,
+561,For Validation,42,F,For Validation,"San Pedro Doctors Hospital, Inc.",TBA,Admitted,TBA,
+562,For Validation,24,M,For Validation,Dr. Damian Reyes Provincial Hospital,TBA,Admitted,TBA,
+563,For Validation,69,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+564,For Validation,27,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+565,For Validation,48,F,For Validation,New Era General Hospital,TBA,Admitted,TBA,
+566,For Validation,73,M,Filipino,New Era General Hospital,TBA,Admitted,TBA,
+567,For Validation,67,M,For Validation,New Era General Hospital,TBA,Admitted,TBA,
+568,For Validation,38,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+569,For Validation,37,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+570,For Validation,58,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+571,2020-03-23,72,F,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Died,TBA,
+572,For Validation,42,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+573,For Validation,45,M,For Validation,Roxas Memorial Provincial Hospital,TBA,Admitted,TBA,
+574,For Validation,60,F,For Validation,The Medical City - Iloilo,TBA,Admitted,TBA,
+575,For Validation,54,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+576,For Validation,24,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+577,For Validation,64,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+578,For Validation,51,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+579,For Validation,27,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+580,For Validation,33,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+581,2020-03-24,79,F,Filipino,St. Luke's Medical Center - Global City,No,Died,TBA,
+582,For Validation,60,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+583,For Validation,53,M,For Validation,East Avenue Medical Center,TBA,Admitted,TBA,
+584,For Validation,71,M,For Validation,"Golden Gate Batangas Hospital, Inc.",TBA,Admitted,TBA,
+585,For Validation,55,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+586,For Validation,21,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+587,For Validation,79,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+588,For Validation,60,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+589,For Validation,31,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+590,For Validation,63,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+591,For Validation,56,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+592,For Validation,55,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+593,For Validation,65,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+594,For Validation,57,M,For Validation,Far Eastern University Nicanor Reyes Medical Foundation Medical Center,TBA,Admitted,TBA,
+595,For Validation,38,M,For Validation,St. Clare's Medical Center,TBA,Admitted,TBA,
+596,For Validation,27,F,Filipino,Northern Mindanao Medical Center,TBA,Admitted,TBA,
+597,For Validation,71,M,Filipino,Northern Mindanao Medical Center,TBA,Admitted,TBA,
+598,For Validation,52,F,For Validation,Northern Mindanao Medical Center,TBA,Admitted,TBA,
+599,For Validation,68,F,For Validation,Cotabato Regional and Medical Center,TBA,Admitted,TBA,
+600,2020-03-24,87,M,For Validation,St. Loius Hospital,TBA,Died,TBA,
+601,For Validation,58,M,For Validation,Marikina Valley Medical Center,TBA,Admitted,TBA,
+602,For Validation,54,M,For Validation,Marikina Valley Medical Center,TBA,Admitted,TBA,
+603,For Validation,57,F,For Validation,Marikina Valley Medical Center,TBA,Admitted,TBA,
+604,2020-03-24,60,M,Filipino,Chinese General Hospital and Medical Center,No,Died,TBA,
+605,For Validation,71,M,Filipino,Chinese General Hospital and Medical Center,TBA,Admitted,TBA,
+606,For Validation,56,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+607,For Validation,70,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+608,For Validation,70,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+609,For Validation,76,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+610,For Validation,28,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+611,For Validation,62,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+612,For Validation,72,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+613,For Validation,29,M,Filipino,West Metro Medical Center,TBA,Admitted,TBA,
+614,For Validation,47,F,For Validation,Fatima University Medical Center,TBA,Admitted,TBA,
+615,For Validation,33,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+616,For Validation,46,M,Filipino,New Clark City,TBA,Admitted,repatriate from the Grand Princess cruise ship,
+617,For Validation,28,M,Filipino,New Clark City,TBA,Admitted,repatriate from the Grand Princess cruise ship,
+618,For Validation,67,F,Filipino,Philippine General Hospital,TBA,Admitted,TBA,
+619,For Validation,67,F,Filipino,Philippine General Hospital,TBA,Admitted,TBA,
+620,For Validation,58,F,Filipino,Philippine General Hospital,TBA,Admitted,TBA,
+621,For Validation,77,M,Filipino,Philippine General Hospital,TBA,Admitted,TBA,
+622,For Validation,60,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+623,For Validation,49,M,For Validation,The Medical City - Ortigas,TBA,Admitted,TBA,
+624,For Validation,74,M,For Validation,The Medical City - Ortigas,TBA,Admitted,TBA,
+625,For Validation,70,M,For Validation,The Medical City - Ortigas,TBA,Admitted,TBA,
+626,For Validation,55,F,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+627,For Validation,65,F,For Validation,The Medical City - Ortigas,TBA,Admitted,TBA,
+628,For Validation,25,F,For Validation,Quezon City Health Department (Reporting Facility),TBA,Admitted,TBA,
+629,For Validation,58,M,For Validation,Our Lady of Lourdes Hospital,TBA,Admitted,TBA,
+630,For Validation,61,M,For Validation,Veterans Memorial Medical Center,TBA,Admitted,TBA,
+631,For Validation,34,F,Filipino,Cornel Medical Center,TBA,Admitted,TBA,
+632,For Validation,67,M,For Validation,Clinica Antipolo hospital,TBA,Admitted,TBA,
+633,For Validation,27,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+634,For Validation,57,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+635,2020-03-24,80,F,Filipino,St. Luke's Medical Center - Global City,No,Died,Had contact with an unknown COVID-19 case,
+636,2020-03-25,56,M,Filipino,Jose B. Lingad Memorial Regional Hospital,No,Died,TBA,
+637,2020-03-25,75,M,Filipino,St. Luke's Medical Center - Quezon City,No,Died,TBA,
+638,For Validation,74,F,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+639,For Validation,56,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+640,For Validation,64,M,For Validation,Olivarez General Hospital,TBA,Admitted,TBA,
+641,For Validation,52,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+642,For Validation,72,F,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+643,For Validation,33,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+644,For Validation,68,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+645,For Validation,29,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+646,For Validation,75,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+647,For Validation,43,M,Filipino,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+648,2020-03-25,71,M,Filipino,Our Lady of Lourdes Hospital,TBA,Died,TBA,
+649,For Validation,60,M,For Validation,Clinica Antipolo hospital,TBA,Admitted,TBA,
+650,For Validation,80,F,For Validation,Clinica Antipolo hospital,TBA,Admitted,TBA,
+651,For Validation,63,M,For Validation,Dr. Paulino J. Garcia Memorial Research and Medical Hospital,TBA,Admitted,TBA,
+652,For Validation,39,M,For Validation,Gerona Hospital of Sacred Heart,TBA,Admitted,TBA,
+653,For Validation,65,F,For Validation,"Nueva Ecija Doctors Hospital, Inc.",TBA,Admitted,TBA,
+654,For Validation,60,F,For Validation,"Nueva Ecija Doctors Hospital, Inc.",TBA,Admitted,TBA,
+655,For Validation,66,M,For Validation,Pampanga Premier Medical Center,TBA,Admitted,TBA,
+656,For Validation,73,M,For Validation,Ramon Magsaysay Memorial Hospital,TBA,Admitted,TBA,
+657,For Validation,75,F,For Validation,Tarlac provincial Hospital,TBA,Admitted,TBA,
+658,For Validation,57,M,For Validation,East Avenue Medical Center,TBA,Admitted,TBA,
+659,For Validation,67,F,For Validation,Ospital ng Parañaque,TBA,Admitted,TBA,
+660,For Validation,60,M,For Validation,Ospital ng Parañaque,TBA,Admitted,TBA,
+661,For Validation,39,M,Filipino,Cagayan Valley Medical Center,TBA,Admitted,TBA,
+662,For Validation,70,M,Filipino,Cagayan Valley Medical Center,TBA,Admitted,TBA,
+663,For Validation,44,F,For Validation,Binangonan Lakeview Hospital,TBA,Admitted,TBA,
+664,For Validation,62,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+665,For Validation,26,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+666,For Validation,70,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+667,For Validation,50,F,For Validation,Dasmariñas City Medical Center,TBA,Admitted,TBA,
+668,For Validation,92,F,Filipino,Laguna Doctors Hospital,TBA,Admitted,TBA,
+669,For Validation,69,M,For Validation,Laguna Medical Center,TBA,Admitted,TBA,
+670,For Validation,39,M,For Validation,Our Lady of Pillar Medical Center,TBA,Admitted,TBA,
+671,For Validation,89,M,For Validation,San Pedro Calungsod Medical Center,TBA,Admitted,TBA,
+672,For Validation,82,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+673,For Validation,51,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+674,For Validation,46,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+675,For Validation,67,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+676,2020-03-25,64,M,Filipino,Cardinal Santos Medical Center,No,Died,TBA,
+677,2020-03-25,60,M,Filipino,Cardinal Santos Medical Center,No,Died,TBA,
+678,For Validation,67,F,For Validation,Urdaneta Sacred Heart Hospital,TBA,Admitted,TBA,
+679,For Validation,70,M,For Validation,Pangasinan Provincial Hospital,TBA,Admitted,TBA,
+680,For Validation,54,F,For Validation,Pangasinan Provincial Hospital,TBA,Admitted,TBA,
+681,For Validation,38,M,For Validation,Ilocos Training and Regional Medical Center,TBA,Admitted,TBA,
+682,For Validation,60,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,
+683,For Validation,67,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,
+684,For Validation,52,F,Filipino,Baguio General Hospital and Medical Center,TBA,Admitted,TBA,
+685,For Validation,55,M,Filipino,Baguio General Hospital and Medical Center,TBA,Admitted,TBA,
+686,For Validation,51,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,
+687,For Validation,57,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,
+688,For Validation,59,M,For Validation,"Uhbi-Parañaque Doctors Hospital, Inc.",TBA,Admitted,TBA,
+689,For Validation,31,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,
+690,For Validation,57,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,
+691,For Validation,59,M,For Validation,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,
+692,For Validation,80,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,
+693,For Validation,61,F,For Validation,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,
+694,For Validation,62,M,Filipino,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,
+695,For Validation,25,M,Filipino,The Medical City - Ortigas,TBA,Admitted,TBA,
+696,For Validation,33,M,For Validation,The Medical City - Ortigas,TBA,Admitted,TBA,
+697,For Validation,32,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+698,For Validation,50,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+699,For Validation,61,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+700,For Validation,68,F,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+701,For Validation,45,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+702,For Validation,34,M,For Validation,Rosario Maclang Bautista General Hospital,TBA,Admitted,TBA,
+703,For Validation,56,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+704,For Validation,70,F,For Validation,Diliman Doctors Hospital,TBA,Admitted,TBA,
+705,For Validation,61,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+706,For Validation,73,M,For Validation,Diliman Doctors Hospital,TBA,Admitted,TBA,
+707,For Validation,40,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+708,For Validation,61,F,For Validation,Capitol Medical Center,TBA,Admitted,TBA,
+709,For Validation,63,M,For Validation,Capitol Medical Center,TBA,Admitted,TBA,
+710,For Validation,68,M,For Validation,Manila Doctors Hospital,TBA,Admitted,TBA,
+711,For Validation,34,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+712,For Validation,51,M,For Validation,Adventist Medical Center,TBA,Admitted,TBA,
+713,For Validation,35,M,Filipino,New Era General Hospital,TBA,Admitted,TBA,
+714,For Validation,59,M,For Validation,Our Lady of Lourdes Hospital,TBA,Admitted,TBA,
+715,For Validation,59,M,For Validation,Medical Center Taguig,TBA,Admitted,TBA,
+716,For Validation,89,M,For Validation,Our Lady of Lourdes Hospital,TBA,Admitted,TBA,
+717,For Validation,42,M,For Validation,Ospital ng Makati,TBA,Admitted,TBA,
+718,For Validation,78,M,Filipino,Manila Doctors Hospital,No,Died,TBA,
+719,For Validation,65,M,For Validation,Manila Doctors Hospital,TBA,Admitted,TBA,
+720,For Validation,33,M,For Validation,Mandaluyong City Medical Center,TBA,Admitted,TBA,
+721,For Validation,39,F,Filipino,De Los Santos Medical Center,TBA,Admitted,TBA,
+722,For Validation,65,M,For Validation,Mandaluyong City Medical Center,TBA,Admitted,TBA,
+723,For Validation,39,M,For Validation,Commonwealth Hospital and Medical Center,TBA,Admitted,TBA,
+724,For Validation,55,F,For Validation,Commonwealth Hospital and Medical Center,TBA,Admitted,TBA,
+725,For Validation,53,M,For Validation,Mandaluyong City Medical Center,TBA,Admitted,TBA,
+726,For Validation,64,F,For Validation,Amang Rodriguez Memorial Medical Center,TBA,Admitted,TBA,
+727,For Validation,31,F,For Validation,The Medical City - Clark,TBA,Admitted,TBA,
+728,For Validation,71,M,For Validation,The Medical City - Clark,TBA,Admitted,TBA,
+729,2020-03-25,67,M,Filipino,Chinese General Hospital and Medical Center,TBA,Died,TBA,
+730,2020-03-25,86,M,Filipino,Chinese General Hospital and Medical Center,No,Died,TBA,
+731,2020-03-25,82,M,Filipino,Chinese General Hospital and Medical Center,No,Died,TBA,
+732,For Validation,50,M,Filipino,Chinese General Hospital and Medical Center,TBA,Admitted,TBA,
+733,For Validation,73,F,For Validation,Gentri Medical Center and Hospital,TBA,Admitted,TBA,
+734,For Validation,52,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+735,For Validation,58,M,For Validation,Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium,TBA,Admitted,TBA,
+736,For Validation,35,M,For Validation,Valenzuela Medical Center,TBA,Admitted,TBA,
+737,For Validation,29,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+738,For Validation,89,M,For Validation,Diliman Doctors Hospital,TBA,Admitted,TBA,
+739,For Validation,52,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+740,For Validation,77,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+741,For Validation,54,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+742,For Validation,43,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+743,For Validation,30,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+744,For Validation,73,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+745,For Validation,86,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+746,For Validation,66,M,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+747,For Validation,41,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+748,For Validation,30,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+749,For Validation,45,F,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+750,For Validation,33,M,Filipino,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+751,For Validation,51,F,For Validation,University of Santo Tomas Hospital,TBA,Admitted,TBA,
+752,For Validation,57,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,
+753,For Validation,64,M,For Validation,Lung Center of the Philippines,TBA,Admitted,TBA,
+754,For Validation,47,M,For Validation,Philippine General Hospital,TBA,Admitted,TBA,
+755,For Validation,52,F,For Validation,University of Santo Tomas Hospital,TBA,Admitted,TBA,
+756,For Validation,31,M,Filipino,Victor R. Potenciano Medical Center,TBA,Admitted,TBA,
+757,For Validation,51,M,For Validation,Metropolitan Medical Center,TBA,Admitted,TBA,
+758,For Validation,52,M,For Validation,RHS 4A Camp Vicente Lim,TBA,Admitted,TBA,
+759,For Validation,66,M,Filipino,Manila Doctors Hospital,TBA,Admitted,TBA,
+760,For Validation,37,M,For Validation,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+761,For Validation,65,M,For Validation,The Medical City - South Luzon,TBA,Admitted,TBA,
+762,For Validation,70,M,For Validation,Southern Philippines Medical Center,TBA,Admitted,TBA,
+763,For Validation,48,F,For Validation,Bicol Medical Center,TBA,Admitted,TBA,
+764,For Validation,77,M,For Validation,Dagupan Doctors Villaflor Memorial Hospital,TBA,Admitted,TBA,
+765,For Validation,50,M,For Validation,Bicol Regional Training ang Teaching Hospital,TBA,Admitted,TBA,
+766,For Validation,53,M,For Validation,Bicol Regional Training ang Teaching Hospital,TBA,Admitted,TBA,
+767,For Validation,59,F,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+768,For Validation,45,M,For Validation,St. Luke's Medical Center - Quezon City,TBA,Admitted,TBA,
+769,For Validation,75,F,For Validation,Region 1 Medical Center,TBA,Admitted,TBA,
+770,For Validation,64,M,For Validation,Far Eastern University Nicanor Reyes Medical Foundation Medical Center,TBA,Admitted,TBA,
+771,For Validation,70,F,For Validation,Metropolitan Medical Center,TBA,Admitted,TBA,
+772,For Validation,60,M,For Validation,Manila Doctors Hospital,TBA,Admitted,TBA,
+773,For Validation,67,F,For Validation,Manila Doctors Hospital,TBA,Admitted,TBA,
+774,For Validation,65,M,Filipino,Region II Trauma and Medical Center,TBA,Admitted,TBA,
+775,For Validation,38,F,For Validation,Philippine Heart Center,TBA,Admitted,TBA,
+776,For Validation,25,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+777,For Validation,59,F,For Validation,Western Visayas Medical Center,TBA,Admitted,TBA,
+778,For Validation,37,F,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+779,For Validation,60,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+780,For Validation,37,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+781,For Validation,69,F,For Validation,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+782,For Validation,48,F,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+783,For Validation,69,M,Filipino,Cardinal Santos Medical Center,TBA,Admitted,TBA,
+784,For Validation,29,F,For Validation,Veterans Memorial Medical Center,TBA,Admitted,TBA,
+785,For Validation,65,F,For Validation,City of General Trias Doctors Medical Center,TBA,Admitted,TBA,
+786,For Validation,62,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+787,For Validation,54,M,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+788,For Validation,75,F,For Validation,Asian Hospital and Medical Center (Muntinlupa),TBA,Admitted,TBA,
+789,For Validation,76,F,For Validation,Quezon City General Hospital,TBA,Admitted,TBA,
+790,For Validation,43,F,For Validation,East Avenue Medical Center,TBA,Admitted,TBA,
+791,For Validation,55,M,For Validation,East Avenue Medical Center,TBA,Admitted,TBA,
+792,For Validation,67,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+793,For Validation,67,M,For Validation,Makati Medical Center,TBA,Admitted,TBA,
+794,For Validation,69,M,For Validation,Quezon City General Hospital,TBA,Admitted,TBA,
+795,For Validation,60,F,For Validation,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,
+796,For Validation,37,F,For Validation,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,
+797,For Validation,25,F,For Validation,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,
+798,For Validation,74,M,For Validation,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,
+799,For Validation,32,M,For Validation,Rizal Medical Center,TBA,Admitted,TBA,
+800,For Validation,40,M,For Validation,Adventist Medical Center,TBA,Admitted,TBA,
+801,For Validation,23,M,Filipino,Southern Isabela Medical Center,TBA,Admitted,TBA,
+802,For Validation,40,M,For Validation,University of the East Ramon Magsaysay Memorial Medical Center,TBA,Admitted,TBA,
+803,For Validation,28,M,For Validation,Dr. Pablo O. Torre Memorial Hospital,TBA,Admitted,TBA,
+804,For Validation,40,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+805,For Validation,61,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+806,For Validation,70,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+807,For Validation,58,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+808,For Validation,72,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+809,For Validation,64,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+810,For Validation,19,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+811,For Validation,32,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+812,For Validation,33,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+813,For Validation,56,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+814,For Validation,75,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+815,For Validation,32,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+816,For Validation,46,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+817,For Validation,46,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+818,For Validation,70,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+819,For Validation,57,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+820,For Validation,73,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+821,For Validation,62,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+822,For Validation,61,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+823,For Validation,61,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+824,For Validation,53,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+825,For Validation,59,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+826,For Validation,71,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+827,For Validation,42,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+828,For Validation,81,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+829,For Validation,68,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+830,For Validation,59,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+831,For Validation,41,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+832,For Validation,74,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+833,For Validation,52,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+834,For Validation,54,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+835,For Validation,37,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+836,For Validation,84,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+837,For Validation,52,F,Filipino,Cagayan Valley Medical Center,TBA,Admitted,TBA,
+838,For Validation,25,F,Filipino,Cagayan Valley Medical Center,TBA,Admitted,TBA,
+839,For Validation,31,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+840,For Validation,26,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+841,For Validation,30,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+842,For Validation,78,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+843,For Validation,23,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+844,For Validation,53,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+845,For Validation,40,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+846,For Validation,38,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+847,For Validation,66,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+848,For Validation,54,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+849,For Validation,53,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+850,For Validation,83,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+851,For Validation,68,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+852,For Validation,49,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+853,For Validation,83,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+854,For Validation,64,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+855,For Validation,32,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+856,For Validation,30,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+857,For Validation,70,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+858,For Validation,39,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+859,2020-03-26,70,M,Filipino,(For Validation at DOH Epidemiology Bureau),No,Died,TBA,
+860,For Validation,41,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+861,For Validation,51,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+862,For Validation,78,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+863,For Validation,64,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+864,For Validation,59,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+865,For Validation,80,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+866,For Validation,46,M,For Validation,Chinese General Hospital and Medical Center,TBA,Admitted,TBA,
+867,For Validation,56,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+868,For Validation,68,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+869,For Validation,70,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+870,For Validation,61,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+871,For Validation,65,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+872,For Validation,56,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+873,For Validation,53,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+874,For Validation,59,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+875,For Validation,46,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+876,For Validation,32,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+877,For Validation,54,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+878,For Validation,37,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+879,For Validation,62,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+880,For Validation,76,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+881,For Validation,63,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+882,For Validation,56,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+883,For Validation,45,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+884,For Validation,69,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+885,For Validation,30,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+886,For Validation,51,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+887,For Validation,75,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+888,For Validation,88,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+889,For Validation,69,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+890,For Validation,83,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+891,For Validation,32,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+892,For Validation,72,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+893,For Validation,73,F,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+894,For Validation,22,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+895,For Validation,58,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+896,For Validation,51,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+897,For Validation,64,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+898,For Validation,68,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+899,For Validation,66,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+900,2020-03-27,71,M,Filipino,(For Validation at DOH Epidemiology Bureau),No,Died,TBA,
+901,For Validation,37,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+902,For Validation,36,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+903,For Validation,5,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+904,For Validation,22,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+905,For Validation,46,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+906,For Validation,71,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+907,For Validation,39,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+908,For Validation,55,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+909,For Validation,71,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+910,For Validation,68,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+911,For Validation,66,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+912,For Validation,75,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+913,For Validation,75,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+914,For Validation,33,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+915,For Validation,37,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+916,For Validation,51,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+917,For Validation,38,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+918,For Validation,75,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+919,For Validation,47,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+920,For Validation,28,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+921,For Validation,81,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+922,For Validation,65,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+923,For Validation,31,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+924,For Validation,62,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+925,For Validation,61,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+926,For Validation,72,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+927,For Validation,41,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+928,For Validation,57,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+929,For Validation,23,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+930,For Validation,67,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+931,For Validation,21,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+932,For Validation,45,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+933,For Validation,72,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+934,For Validation,30,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+935,For Validation,83,M,Filipino,St. Luke's Medical Center - Global City,TBA,Admitted,TBA,
+936,For Validation,32,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+937,For Validation,50,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+938,For Validation,40,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+939,For Validation,32,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+940,For Validation,83,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+941,For Validation,81,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+942,For Validation,37,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+943,For Validation,62,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+944,For Validation,52,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+945,For Validation,49,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+946,For Validation,92,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+947,For Validation,56,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+948,For Validation,58,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+949,For Validation,28,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+950,For Validation,50,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+951,For Validation,49,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+952,For Validation,52,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+953,For Validation,58,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+954,For Validation,78,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+955,For Validation,58,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+956,For Validation,34,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+957,For Validation,65,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+958,For Validation,72,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+959,For Validation,53,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+960,For Validation,80,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+961,For Validation,68,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+962,For Validation,50,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+963,For Validation,32,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+964,For Validation,52,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+965,For Validation,50,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+966,For Validation,68,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+967,For Validation,56,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+968,For Validation,43,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+969,For Validation,52,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+970,For Validation,76,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+971,For Validation,70,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+972,For Validation,57,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+973,For Validation,60,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+974,For Validation,54,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+975,For Validation,62,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+976,For Validation,46,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+977,For Validation,63,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+978,For Validation,54,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+979,For Validation,28,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+980,For Validation,38,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+981,For Validation,64,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+982,For Validation,17,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+983,For Validation,57,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+984,For Validation,34,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+985,For Validation,49,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+986,For Validation,16,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+987,For Validation,65,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+988,For Validation,77,M,Filipino,New Era General Hospital,TBA,Admitted,TBA,
+989,For Validation,58,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+990,For Validation,1,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+991,For Validation,50,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+992,For Validation,53,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+993,For Validation,53,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+994,For Validation,25,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+995,For Validation,80,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+996,For Validation,30,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+997,For Validation,60,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+998,For Validation,50,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+999,For Validation,29,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1000,For Validation,69,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1001,For Validation,52,M,Filipino,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1002,For Validation,49,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1003,For Validation,29,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1004,For Validation,40,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1005,For Validation,79,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1006,For Validation,68,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1007,For Validation,66,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1008,For Validation,56,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1009,For Validation,65,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1010,For Validation,63,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1011,For Validation,42,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1012,For Validation,63,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1013,For Validation,76,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1014,For Validation,66,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1015,For Validation,57,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1016,For Validation,51,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1017,For Validation,67,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1018,For Validation,52,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1019,For Validation,58,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1020,For Validation,58,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1021,For Validation,30,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1022,For Validation,46,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1023,For Validation,27,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1024,For Validation,55,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1025,For Validation,74,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1026,For Validation,56,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1027,For Validation,71,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1028,For Validation,42,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1029,For Validation,67,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1030,For Validation,31,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1031,For Validation,56,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1032,For Validation,64,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1033,For Validation,56,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1034,For Validation,71,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1035,For Validation,65,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1036,For Validation,48,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1037,For Validation,87,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1038,For Validation,53,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1039,For Validation,84,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1040,For Validation,57,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1041,For Validation,44,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1042,For Validation,56,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1043,For Validation,54,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1044,For Validation,55,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1045,For Validation,68,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1046,For Validation,83,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1047,For Validation,60,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1048,For Validation,54,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1049,For Validation,0,,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1050,For Validation,39,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1051,For Validation,68,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1052,For Validation,51,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1053,For Validation,60,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1054,For Validation,42,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1055,For Validation,45,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1056,For Validation,55,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1057,For Validation,29,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1058,For Validation,81,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1059,For Validation,80,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1060,For Validation,46,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1061,For Validation,74,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1062,For Validation,64,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1063,For Validation,64,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1064,For Validation,38,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1065,For Validation,57,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1066,For Validation,37,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1067,For Validation,33,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1068,For Validation,65,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1069,For Validation,58,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1070,For Validation,20,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1071,For Validation,59,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1072,For Validation,43,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1073,For Validation,44,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1074,For Validation,58,M,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1075,For Validation,40,F,For Validation,(For Validation at DOH Epidemiology Bureau),TBA,Admitted,TBA,
+1076,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1077,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1078,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1079,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1080,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1081,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1082,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1083,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1084,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1085,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1086,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1087,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1088,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1089,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1090,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1091,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1092,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1093,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1094,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1095,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1096,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1097,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1098,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1099,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1100,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1101,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1102,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1103,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1104,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1105,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1106,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1107,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1108,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1109,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1110,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1111,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1112,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1113,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1114,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1115,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1116,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1117,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1118,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1119,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1120,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1121,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1122,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1123,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1124,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1125,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1126,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1127,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1128,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1129,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1130,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1131,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1132,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1133,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1134,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1135,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1136,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1137,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1138,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1139,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1140,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1141,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1142,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1143,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1144,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1145,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1146,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1147,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1148,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1149,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1150,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1151,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1152,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1153,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1154,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1155,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1156,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1157,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1158,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1159,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1160,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1161,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1162,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1163,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1164,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1165,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1166,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1167,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1168,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1169,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1170,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1171,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1172,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1173,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1174,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1175,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1176,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1177,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1178,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1179,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1180,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1181,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1182,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1183,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1184,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1185,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1186,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1187,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1188,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1189,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1190,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1191,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1192,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1193,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1194,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1195,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1196,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1197,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1198,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1199,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1200,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1201,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1202,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1203,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1204,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1205,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1206,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1207,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1208,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1209,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1210,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1211,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1212,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1213,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1214,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1215,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1216,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1217,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1218,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1219,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1220,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1221,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1222,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1223,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1224,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1225,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1226,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1227,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1228,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1229,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1230,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1231,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1232,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1233,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1234,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1235,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1236,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1237,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1238,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1239,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1240,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1241,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1242,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1243,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1244,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1245,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1246,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1247,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1248,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1249,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1250,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1251,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1252,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1253,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1254,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1255,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1256,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1257,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1258,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1259,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1260,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1261,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1262,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1263,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1264,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1265,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1266,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1267,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1268,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1269,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1270,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1271,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1272,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1273,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1274,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1275,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1276,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1277,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1278,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1279,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1280,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1281,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1282,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1283,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1284,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1285,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1286,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1287,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1288,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1289,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1290,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1291,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1292,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1293,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1294,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1295,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1296,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1297,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1298,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1299,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1300,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1301,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1302,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1303,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1304,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1305,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1306,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1307,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1308,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1309,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1310,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1311,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1312,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1313,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1314,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1315,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1316,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1317,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1318,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1319,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1320,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1321,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1322,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1323,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1324,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1325,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1326,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1327,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1328,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1329,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1330,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1331,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1332,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1333,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1334,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1335,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1336,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1337,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1338,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1339,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1340,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1341,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1342,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1343,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1344,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1345,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1346,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1347,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1348,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1349,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1350,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1351,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1352,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1353,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1354,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1355,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1356,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1357,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1358,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1359,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1360,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1361,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1362,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1363,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1364,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1365,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1366,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1367,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1368,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1369,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1370,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1371,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1372,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1373,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1374,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1375,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1376,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1377,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1378,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1379,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1380,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1381,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1382,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1383,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1384,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1385,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1386,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1387,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1388,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1389,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1390,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1391,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1392,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1393,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1394,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1395,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1396,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1397,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1398,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1399,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1400,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1401,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1402,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1403,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1404,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1405,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1406,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1407,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1408,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1409,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1410,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1411,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1412,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1413,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1414,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1415,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1416,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1417,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1418,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1419,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1420,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1421,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1422,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1423,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1424,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1425,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1426,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1427,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1428,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1429,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1430,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1431,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1432,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1433,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1434,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1435,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1436,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1437,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1438,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1439,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1440,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1441,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1442,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1443,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1444,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1445,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1446,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1447,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1448,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1449,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1450,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1451,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1452,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1453,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1454,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1455,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1456,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1457,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1458,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1459,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1460,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1461,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1462,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1463,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1464,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1465,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1466,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1467,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1468,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1469,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1470,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1471,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1472,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1473,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1474,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1475,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1476,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1477,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1478,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1479,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1480,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1481,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1482,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1483,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1484,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1485,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1486,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1487,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1488,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1489,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1490,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1491,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1492,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1493,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1494,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1495,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1496,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1497,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1498,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1499,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1500,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1501,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1502,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1503,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1504,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1505,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1506,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1507,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1508,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1509,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1510,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1511,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1512,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1513,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1514,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1515,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1516,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1517,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1518,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1519,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1520,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1521,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1522,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1523,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1524,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1525,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1526,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1527,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1528,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1529,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1530,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1531,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1532,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1533,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1534,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1535,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1536,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1537,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1538,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1539,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1540,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1541,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1542,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1543,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1544,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1545,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
+1546,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA,TBA
